@@ -11,6 +11,8 @@
 .vnav a,.vnav span{font-size:15px;color:var(--muted);text-decoration:none;border:1px solid var(--line);border-radius:20px;padding:4px 18px;background:#fff}
 .vnav a{color:var(--accent);border-color:var(--accent)}
 .vnav span.dis{opacity:.3}
+.savebtn{display:block;width:100%;margin:6px 0 18px;padding:10px 0;font-size:15px;color:#fff;background:var(--accent);border:none;border-radius:20px;cursor:pointer}
+.viewer img{-webkit-touch-callout:default}
 </style></head>
 <body><div class="wrap">
 <header class="site"><div class="brand">香芋的读书笔记<small>XIANGYU'S READING NOTES</small></div>
@@ -21,6 +23,7 @@
 <div class="vcap">2026-10-13 · 8/8</div>
 <div class="vquote">“疯狂的紧迫感是我们公司运作的法则。” —— 沃尔特·艾萨克森</div>
 <div class="vnav"><a href="2026-10-12.html">‹ 前一天</a><span class="dis">后一天 ›</span></div>
+<button class="savebtn" id="savebtn" type="button">保存图片</button>
 </div>
 <footer class="site">香芋的读书笔记 · 读完的书，在这里安家</footer>
 </div>
@@ -31,6 +34,14 @@ document.addEventListener('touchstart',function(e){sx=e.touches[0].clientX;},{pa
 document.addEventListener('touchend',function(e){if(sx===null)return;var dx=e.changedTouches[0].clientX-sx;sx=null;
 if(dx<-60)go('prev');else if(dx>60)go('next');},{passive:true});
 document.addEventListener('keydown',function(e){if(e.key==='ArrowLeft')go('prev');if(e.key==='ArrowRight')go('next');});
+document.getElementById('savebtn').addEventListener('click',function(){
+var img=document.querySelector('.viewer img');
+fetch(img.src).then(function(r){return r.blob();}).then(function(blob){
+var file=new File([blob],'quote-2026-10-13.webp',{type:'image/webp'});
+if(navigator.canShare&&navigator.canShare({files:[file]})){return navigator.share({files:[file]});}
+window.open(img.src,'_blank');
+}).catch(function(){window.open(img.src,'_blank');});
+});
 })();
 </script>
 </body></html>
