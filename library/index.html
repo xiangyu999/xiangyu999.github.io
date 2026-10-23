@@ -16,7 +16,8 @@
 .wall{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:18px}
 .bcard{background:#fff;border:1px solid var(--line);border-radius:6px;overflow:hidden;display:flex;flex-direction:column}
 .bcard.hide{display:none}
-.cover{aspect-ratio:3/4;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;position:relative}
+.cover{aspect-ratio:3/4;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;position:relative;overflow:hidden}
+.cover img{width:100%;height:100%;object-fit:cover;display:block}
 .cchar{font-family:"Songti SC","Noto Serif SC",serif;font-size:52px;color:rgba(43,43,43,.72)}
 .ctitle{font-size:11px;color:rgba(43,43,43,.55);padding:0 10px;text-align:center;line-height:1.5}
 .bmeta{padding:12px 12px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
@@ -34,7 +35,7 @@
 @media(max-width:600px){.wall{grid-template-columns:repeat(3,1fr);gap:12px}.cchar{font-size:38px}}
 </style></head>
 <body><div class="wrap">
-<header class="site"><div class="brand">香芋的读书笔记<small>XIANGYU'S READING NOTES</small></div><nav><a href="../index.html">首页</a><a href="../notes/index.html">读书笔记</a><a href="../library/index.html" class="on">图书馆</a><a href="../quotes/index.html">每日摘抄</a><a href="../news/index.html">AI资讯</a><a href="../lit/index.html">文学简报</a><a href="../build/index.html">建站手记</a><a href="../about/index.html">关于我</a></nav></header>
+<header class="site"><div class="brand">香芋的读书笔记<small>XIANGYU'S READING NOTES</small></div><nav><a href="../index.html">首页</a><a href="../notes/index.html">读书笔记</a><a href="../library/index.html" class="on">图书馆</a><a href="../quotes/index.html">每日摘抄</a><a href="../lit/index.html">文学简报</a><a href="../build/index.html">建站手记</a><a href="../about/index.html">关于我</a></nav></header>
 <div class="libhead"><h1>图书馆</h1><div class="subtitle">读完的书，在这里安家 · 封面墙 / 筛选 / 备注</div></div>
 <div class="stats">
   <div class="stat"><b>37</b><span>藏书</span></div>
@@ -49,9 +50,7 @@
 </div>
 <div class="wall" id="wall">
 <div class="bcard" data-status="在读" data-types="理财,商业" data-search="小狗钱钱 [德] 博多·舍费尔">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(312,32%,88%),hsl(352,30%,76%))">
-    <span class="cchar">小</span><span class="ctitle">小狗钱钱</span>
-  </div>
+  <div class="cover"><img src="covers/c5d15608264.svg" alt="小狗钱钱" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">小狗钱钱</div>
     <div class="bauthor">[德] 博多·舍费尔</div>
@@ -60,9 +59,7 @@
     <div class="btags"><span class="tag">理财</span><span class="tag">商业</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="推理小说,社会文学" data-search="BLUE 叶真中显（日）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(129,32%,88%),hsl(169,30%,76%))">
-    <span class="cchar">B</span><span class="ctitle">BLUE</span>
-  </div>
+  <div class="cover"><img src="covers/c1b3e1ee9bf.svg" alt="BLUE" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">BLUE</div>
     <div class="bauthor">叶真中显（日）</div>
@@ -71,9 +68,7 @@
     <div class="btags"><span class="tag">推理小说</span><span class="tag">社会文学</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="历史研究,非虚构" data-search="万历十五年 黄仁宇（美）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(202,32%,88%),hsl(242,30%,76%))">
-    <span class="cchar">万</span><span class="ctitle">万历十五年</span>
-  </div>
+  <div class="cover"><img src="covers/c3c033b1e51.svg" alt="万历十五年" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">万历十五年</div>
     <div class="bauthor">黄仁宇（美）</div>
@@ -82,9 +77,7 @@
     <div class="btags"><span class="tag">历史研究</span><span class="tag">非虚构</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="历史小说" data-search="不做告别 韩江（韩）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(27,32%,88%),hsl(67,30%,76%))">
-    <span class="cchar">不</span><span class="ctitle">不做告别</span>
-  </div>
+  <div class="cover"><img src="covers/cf852c271de.svg" alt="不做告别" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">不做告别</div>
     <div class="bauthor">韩江（韩）</div>
@@ -93,9 +86,7 @@
     <div class="btags"><span class="tag">历史小说</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="政治寓言体小说" data-search="动物农场 乔治•奥威尔（英）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(51,32%,88%),hsl(91,30%,76%))">
-    <span class="cchar">动</span><span class="ctitle">动物农场</span>
-  </div>
+  <div class="cover"><img src="covers/c658b4fe9b6.svg" alt="动物农场" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">动物农场</div>
     <div class="bauthor">乔治•奥威尔（英）</div>
@@ -104,9 +95,7 @@
     <div class="btags"><span class="tag">政治寓言体小说</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="超现实小说" data-search="地球星人 村田沙耶香（日）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(14,32%,88%),hsl(54,30%,76%))">
-    <span class="cchar">地</span><span class="ctitle">地球星人</span>
-  </div>
+  <div class="cover"><img src="covers/cf0c9279362.svg" alt="地球星人" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">地球星人</div>
     <div class="bauthor">村田沙耶香（日）</div>
@@ -115,9 +104,7 @@
     <div class="btags"><span class="tag">超现实小说</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="传记,商业" data-search="埃隆·马斯克传 沃尔特·艾萨克森（美）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(216,32%,88%),hsl(256,30%,76%))">
-    <span class="cchar">埃</span><span class="ctitle">埃隆·马斯克传</span>
-  </div>
+  <div class="cover"><img src="covers/c65f00c589e.svg" alt="埃隆·马斯克传" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">埃隆·马斯克传</div>
     <div class="bauthor">沃尔特·艾萨克森（美）</div>
@@ -126,9 +113,7 @@
     <div class="btags"><span class="tag">传记</span><span class="tag">商业</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="推理小说,社会文学" data-search="失控的照护 叶真中显（日）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(129,32%,88%),hsl(169,30%,76%))">
-    <span class="cchar">失</span><span class="ctitle">失控的照护</span>
-  </div>
+  <div class="cover"><img src="covers/c2325439bf5.svg" alt="失控的照护" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">失控的照护</div>
     <div class="bauthor">叶真中显（日）</div>
@@ -137,9 +122,7 @@
     <div class="btags"><span class="tag">推理小说</span><span class="tag">社会文学</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="理财" data-search="富爸爸，穷爸爸 罗伯特·T·清崎 / 莎伦·L·莱希特（美）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(312,32%,88%),hsl(352,30%,76%))">
-    <span class="cchar">富</span><span class="ctitle">富爸爸，穷爸爸</span>
-  </div>
+  <div class="cover"><img src="covers/c85da9ff475.svg" alt="富爸爸，穷爸爸" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">富爸爸，穷爸爸</div>
     <div class="bauthor">罗伯特·T·清崎 / 莎伦·L·莱希特（美）</div>
@@ -148,9 +131,7 @@
     <div class="btags"><span class="tag">理财</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="" data-search="小狗钱钱2 [德] 博多·舍费尔">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(270,32%,88%),hsl(310,30%,76%))">
-    <span class="cchar">小</span><span class="ctitle">小狗钱钱2</span>
-  </div>
+  <div class="cover" style="background:linear-gradient(135deg,hsl(270,32%,88%),hsl(310,30%,76%))"><span class="cchar">小</span><span class="ctitle">小狗钱钱2</span></div>
   <div class="bmeta">
     <div class="btitle">小狗钱钱2</div>
     <div class="bauthor">[德] 博多·舍费尔</div>
@@ -159,9 +140,7 @@
     <div class="btags"></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="历史小说" data-search="少年来了 韩江（韩）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(27,32%,88%),hsl(67,30%,76%))">
-    <span class="cchar">少</span><span class="ctitle">少年来了</span>
-  </div>
+  <div class="cover"><img src="covers/c66b9d6a38a.svg" alt="少年来了" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">少年来了</div>
     <div class="bauthor">韩江（韩）</div>
@@ -170,9 +149,7 @@
     <div class="btags"><span class="tag">历史小说</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="历史文学" data-search="崇祯：勤政的亡国君 陈梧桐（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(101,32%,88%),hsl(141,30%,76%))">
-    <span class="cchar">崇</span><span class="ctitle">崇祯：勤政的亡国君</span>
-  </div>
+  <div class="cover"><img src="covers/cdf4f8ca4c6.svg" alt="崇祯：勤政的亡国君" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">崇祯：勤政的亡国君</div>
     <div class="bauthor">陈梧桐（中）</div>
@@ -181,9 +158,7 @@
     <div class="btags"><span class="tag">历史文学</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="纪实小说,传记" data-search="巨流河 齐邦媛（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(75,32%,88%),hsl(115,30%,76%))">
-    <span class="cchar">巨</span><span class="ctitle">巨流河</span>
-  </div>
+  <div class="cover"><img src="covers/c783000b421.svg" alt="巨流河" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">巨流河</div>
     <div class="bauthor">齐邦媛（中）</div>
@@ -192,9 +167,7 @@
     <div class="btags"><span class="tag">纪实小说</span><span class="tag">传记</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="文学小说" data-search="平凡的世界 路遥">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
-    <span class="cchar">平</span><span class="ctitle">平凡的世界</span>
-  </div>
+  <div class="cover"><img src="covers/c84f83137e7.svg" alt="平凡的世界" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">平凡的世界</div>
     <div class="bauthor">路遥</div>
@@ -203,9 +176,7 @@
     <div class="btags"><span class="tag">文学小说</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="反乌托邦,软科幻" data-search="幸存者回忆录 多丽丝·莱辛（英）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(23,32%,88%),hsl(63,30%,76%))">
-    <span class="cchar">幸</span><span class="ctitle">幸存者回忆录</span>
-  </div>
+  <div class="cover"><img src="covers/c57e4199eac.svg" alt="幸存者回忆录" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">幸存者回忆录</div>
     <div class="bauthor">多丽丝·莱辛（英）</div>
@@ -214,9 +185,7 @@
     <div class="btags"><span class="tag">反乌托邦</span><span class="tag">软科幻</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="文学小说" data-search="废都 贾平凹（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
-    <span class="cchar">废</span><span class="ctitle">废都</span>
-  </div>
+  <div class="cover"><img src="covers/c6f21296469.svg" alt="废都" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">废都</div>
     <div class="bauthor">贾平凹（中）</div>
@@ -225,9 +194,7 @@
     <div class="btags"><span class="tag">文学小说</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="推理小说,社会文学" data-search="恶女的告白 叶真中显（日）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(129,32%,88%),hsl(169,30%,76%))">
-    <span class="cchar">恶</span><span class="ctitle">恶女的告白</span>
-  </div>
+  <div class="cover"><img src="covers/c3b72b84048.svg" alt="恶女的告白" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">恶女的告白</div>
     <div class="bauthor">叶真中显（日）</div>
@@ -236,9 +203,7 @@
     <div class="btags"><span class="tag">推理小说</span><span class="tag">社会文学</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="散文集" data-search="我与地坛 史铁生（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(184,32%,88%),hsl(224,30%,76%))">
-    <span class="cchar">我</span><span class="ctitle">我与地坛</span>
-  </div>
+  <div class="cover"><img src="covers/c5f02f0fe75.svg" alt="我与地坛" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">我与地坛</div>
     <div class="bauthor">史铁生（中）</div>
@@ -247,9 +212,7 @@
     <div class="btags"><span class="tag">散文集</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="心理纪实,非虚构" data-search="早安怪物 [加] 凯瑟琳·吉尔迪纳">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(297,32%,88%),hsl(337,30%,76%))">
-    <span class="cchar">早</span><span class="ctitle">早安怪物</span>
-  </div>
+  <div class="cover"><img src="covers/ca1de352c2e.svg" alt="早安怪物" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">早安怪物</div>
     <div class="bauthor">[加] 凯瑟琳·吉尔迪纳</div>
@@ -258,9 +221,7 @@
     <div class="btags"><span class="tag">心理纪实</span><span class="tag">非虚构</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="文学小说" data-search="月亮与六便士 毛姆（英）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
-    <span class="cchar">月</span><span class="ctitle">月亮与六便士</span>
-  </div>
+  <div class="cover"><img src="covers/c4c1fd9dd74.svg" alt="月亮与六便士" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">月亮与六便士</div>
     <div class="bauthor">毛姆（英）</div>
@@ -269,9 +230,7 @@
     <div class="btags"><span class="tag">文学小说</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="社会科学,经济史" data-search="权利与进步 戴伦·艾塞默鲁 / 赛门·强森">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(31,32%,88%),hsl(71,30%,76%))">
-    <span class="cchar">权</span><span class="ctitle">权利与进步</span>
-  </div>
+  <div class="cover"><img src="covers/c8f7af1f291.svg" alt="权利与进步" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">权利与进步</div>
     <div class="bauthor">戴伦·艾塞默鲁 / 赛门·强森</div>
@@ -280,9 +239,7 @@
     <div class="btags"><span class="tag">社会科学</span><span class="tag">经济史</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="文学小说" data-search="活着 余华（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
-    <span class="cchar">活</span><span class="ctitle">活着</span>
-  </div>
+  <div class="cover"><img src="covers/ca17f0b7e73.svg" alt="活着" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">活着</div>
     <div class="bauthor">余华（中）</div>
@@ -291,9 +248,7 @@
     <div class="btags"><span class="tag">文学小说</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="纪实小说" data-search="秋园 杨本芬（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(75,32%,88%),hsl(115,30%,76%))">
-    <span class="cchar">秋</span><span class="ctitle">秋园</span>
-  </div>
+  <div class="cover"><img src="covers/c2b4afbaceb.svg" alt="秋园" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">秋园</div>
     <div class="bauthor">杨本芬（中）</div>
@@ -302,9 +257,7 @@
     <div class="btags"><span class="tag">纪实小说</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="历史评论,政治史" data-search="秦制两千年 谌旭彬（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(302,32%,88%),hsl(342,30%,76%))">
-    <span class="cchar">秦</span><span class="ctitle">秦制两千年</span>
-  </div>
+  <div class="cover"><img src="covers/cc167c6991b.svg" alt="秦制两千年" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">秦制两千年</div>
     <div class="bauthor">谌旭彬（中）</div>
@@ -313,9 +266,7 @@
     <div class="btags"><span class="tag">历史评论</span><span class="tag">政治史</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="网文,穿越历史" data-search="秦吏 七月新番（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(264,32%,88%),hsl(304,30%,76%))">
-    <span class="cchar">秦</span><span class="ctitle">秦吏</span>
-  </div>
+  <div class="cover"><img src="covers/c92145d2a17.svg" alt="秦吏" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">秦吏</div>
     <div class="bauthor">七月新番（中）</div>
@@ -324,9 +275,7 @@
     <div class="btags"><span class="tag">网文</span><span class="tag">穿越历史</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="文学小说,爱情,诺贝尔文学奖" data-search="窄门 安德烈·纪德（法）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
-    <span class="cchar">窄</span><span class="ctitle">窄门</span>
-  </div>
+  <div class="cover"><img src="covers/cf3ec9a28ec.svg" alt="窄门" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">窄门</div>
     <div class="bauthor">安德烈·纪德（法）</div>
@@ -335,9 +284,7 @@
     <div class="btags"><span class="tag">文学小说</span><span class="tag">爱情</span><span class="tag">诺贝尔文学奖</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="政治哲学" data-search="精英的傲慢 迈克尔·桑德尔（美）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(258,32%,88%),hsl(298,30%,76%))">
-    <span class="cchar">精</span><span class="ctitle">精英的傲慢</span>
-  </div>
+  <div class="cover"><img src="covers/c95d84d0a8a.svg" alt="精英的傲慢" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">精英的傲慢</div>
     <div class="bauthor">迈克尔·桑德尔（美）</div>
@@ -346,9 +293,7 @@
     <div class="btags"><span class="tag">政治哲学</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="文学小说,诺贝尔文学奖" data-search="素食者 韩江（韩）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
-    <span class="cchar">素</span><span class="ctitle">素食者</span>
-  </div>
+  <div class="cover"><img src="covers/c2abef2bb41.svg" alt="素食者" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">素食者</div>
     <div class="bauthor">韩江（韩）</div>
@@ -357,9 +302,7 @@
     <div class="btags"><span class="tag">文学小说</span><span class="tag">诺贝尔文学奖</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="推理小说,完美犯罪" data-search="绝叫 叶真中显（日）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(129,32%,88%),hsl(169,30%,76%))">
-    <span class="cchar">绝</span><span class="ctitle">绝叫</span>
-  </div>
+  <div class="cover"><img src="covers/cb148b165cc.svg" alt="绝叫" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">绝叫</div>
     <div class="bauthor">叶真中显（日）</div>
@@ -368,9 +311,7 @@
     <div class="btags"><span class="tag">推理小说</span><span class="tag">完美犯罪</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="文学小说,现实魔幻" data-search="群山之巅 迟子建（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
-    <span class="cchar">群</span><span class="ctitle">群山之巅</span>
-  </div>
+  <div class="cover"><img src="covers/cb908d95d14.svg" alt="群山之巅" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">群山之巅</div>
     <div class="bauthor">迟子建（中）</div>
@@ -379,9 +320,7 @@
     <div class="btags"><span class="tag">文学小说</span><span class="tag">现实魔幻</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="当代随笔" data-search="遥远的向日葵地 李娟（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(169,32%,88%),hsl(209,30%,76%))">
-    <span class="cchar">遥</span><span class="ctitle">遥远的向日葵地</span>
-  </div>
+  <div class="cover"><img src="covers/c0b34a7634a.svg" alt="遥远的向日葵地" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">遥远的向日葵地</div>
     <div class="bauthor">李娟（中）</div>
@@ -390,9 +329,7 @@
     <div class="btags"><span class="tag">当代随笔</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="文学小说,民族叙事" data-search="额尔古纳河右岸 迟子建（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
-    <span class="cchar">额</span><span class="ctitle">额尔古纳河右岸</span>
-  </div>
+  <div class="cover"><img src="covers/ce692ab3c62.svg" alt="额尔古纳河右岸" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">额尔古纳河右岸</div>
     <div class="bauthor">迟子建（中）</div>
@@ -401,9 +338,7 @@
     <div class="btags"><span class="tag">文学小说</span><span class="tag">民族叙事</span></div>
   </div>
 </div><div class="bcard" data-status="已读" data-types="科普,自然散文" data-search="鳗鱼的旅行 帕特里克•斯文松（瑞典）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(167,32%,88%),hsl(207,30%,76%))">
-    <span class="cchar">鳗</span><span class="ctitle">鳗鱼的旅行</span>
-  </div>
+  <div class="cover"><img src="covers/cd9e00f8021.svg" alt="鳗鱼的旅行" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">鳗鱼的旅行</div>
     <div class="bauthor">帕特里克•斯文松（瑞典）</div>
@@ -412,9 +347,7 @@
     <div class="btags"><span class="tag">科普</span><span class="tag">自然散文</span></div>
   </div>
 </div><div class="bcard" data-status="想读" data-types="文学小说" data-search="人间便利店 村田沙耶香（日）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
-    <span class="cchar">人</span><span class="ctitle">人间便利店</span>
-  </div>
+  <div class="cover"><img src="covers/cfc4f914e0a.svg" alt="人间便利店" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">人间便利店</div>
     <div class="bauthor">村田沙耶香（日）</div>
@@ -423,9 +356,7 @@
     <div class="btags"><span class="tag">文学小说</span></div>
   </div>
 </div><div class="bcard" data-status="想读" data-types="文学小说,诺贝尔文学奖" data-search="耻 J.M. 库切（南非）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
-    <span class="cchar">耻</span><span class="ctitle">耻</span>
-  </div>
+  <div class="cover"><img src="covers/c23f3b3aa88.svg" alt="耻" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">耻</div>
     <div class="bauthor">J.M. 库切（南非）</div>
@@ -434,9 +365,7 @@
     <div class="btags"><span class="tag">文学小说</span><span class="tag">诺贝尔文学奖</span></div>
   </div>
 </div><div class="bcard" data-status="缓缓" data-types="历史评论" data-search="失去的三百年 郭建龙（中）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(302,32%,88%),hsl(342,30%,76%))">
-    <span class="cchar">失</span><span class="ctitle">失去的三百年</span>
-  </div>
+  <div class="cover"><img src="covers/cf5f31e2efb.svg" alt="失去的三百年" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">失去的三百年</div>
     <div class="bauthor">郭建龙（中）</div>
@@ -445,9 +374,7 @@
     <div class="btags"><span class="tag">历史评论</span></div>
   </div>
 </div><div class="bcard" data-status="缓缓" data-types="社会科学" data-search="趋势2030 莫洛·F.纪廉（西班牙）">
-  <div class="cover" style="background:linear-gradient(135deg,hsl(31,32%,88%),hsl(71,30%,76%))">
-    <span class="cchar">趋</span><span class="ctitle">趋势2030</span>
-  </div>
+  <div class="cover"><img src="covers/ccc5947d43e.svg" alt="趋势2030" loading="lazy"></div>
   <div class="bmeta">
     <div class="btitle">趋势2030</div>
     <div class="bauthor">莫洛·F.纪廉（西班牙）</div>
