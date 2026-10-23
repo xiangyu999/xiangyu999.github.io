@@ -1,0 +1,479 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>图书馆 · 香芋的读书笔记</title>
+<link rel="stylesheet" href="../assets/style.css">
+<style>
+.libhead{margin:6px 0 18px}
+.stats{display:flex;gap:14px;flex-wrap:wrap;margin:16px 0 22px}
+.stat{background:#fff;border:1px solid var(--line);border-radius:6px;padding:10px 20px;text-align:center;min-width:96px}
+.stat b{display:block;font-size:26px;color:var(--deep);font-family:"Songti SC","Noto Serif SC",serif}
+.stat span{font-size:12px;color:var(--muted);letter-spacing:2px}
+.filters{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:0 0 20px}
+.chip{font-size:13px;border:1px solid var(--line);background:#fff;border-radius:20px;padding:4px 16px;cursor:pointer;color:var(--muted);letter-spacing:1px}
+.chip.on{border-color:var(--accent);color:var(--accent)}
+.filters select,.filters input{font-size:14px;padding:6px 12px;border:1px solid var(--line);border-radius:20px;background:#fff;color:var(--ink);outline:none}
+.filters input{width:170px}
+.wall{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:18px}
+.bcard{background:#fff;border:1px solid var(--line);border-radius:6px;overflow:hidden;display:flex;flex-direction:column}
+.bcard.hide{display:none}
+.cover{aspect-ratio:3/4;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;position:relative}
+.cchar{font-family:"Songti SC","Noto Serif SC",serif;font-size:52px;color:rgba(43,43,43,.72)}
+.ctitle{font-size:11px;color:rgba(43,43,43,.55);padding:0 10px;text-align:center;line-height:1.5}
+.bmeta{padding:12px 12px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.btitle{font-size:14.5px;font-weight:600;color:var(--deep);line-height:1.5;font-family:"Songti SC","Noto Serif SC",serif}
+.bauthor{font-size:12px;color:var(--muted)}
+.brow{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.st{font-size:11px;color:#fff;border-radius:12px;padding:1px 10px;letter-spacing:1px}
+.rt{font-size:12px}
+.db{font-size:11px;color:var(--muted)}
+.bnote{font-size:12.5px;color:#555;line-height:1.7;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.nonote{color:#b3ad9e}
+.btags{display:flex;gap:6px;flex-wrap:wrap}
+.btags .tag{font-size:11px;margin:0}
+.empty{text-align:center;color:var(--muted);padding:40px 0;display:none}
+@media(max-width:600px){.wall{grid-template-columns:repeat(3,1fr);gap:12px}.cchar{font-size:38px}}
+</style></head>
+<body><div class="wrap">
+<header class="site"><div class="brand">香芋的读书笔记<small>XIANGYU'S READING NOTES</small></div><nav><a href="../index.html">首页</a><a href="../notes/index.html">读书笔记</a><a href="../library/index.html" class="on">图书馆</a><a href="../quotes/index.html">每日摘抄</a><a href="../news/index.html">AI资讯</a><a href="../lit/index.html">文学简报</a><a href="../build/index.html">建站手记</a><a href="../about/index.html">关于我</a></nav></header>
+<div class="libhead"><h1>图书馆</h1><div class="subtitle">读完的书，在这里安家 · 封面墙 / 筛选 / 备注</div></div>
+<div class="stats">
+  <div class="stat"><b>37</b><span>藏书</span></div>
+  <div class="stat"><b>32</b><span>已读</span></div>
+  <div class="stat"><b>1</b><span>在读</span></div>
+  <div class="stat"><b>4</b><span>待读</span></div>
+</div>
+<div class="filters" id="filters">
+  <span class="chip on" data-s="">全部</span><span class="chip" data-s="已读">已读</span><span class="chip" data-s="在读">在读</span><span class="chip" data-s="想读">想读</span><span class="chip" data-s="缓缓">缓缓</span>
+  <select id="tsel"><option value="">全部分类</option><option value="传记">传记</option><option value="历史小说">历史小说</option><option value="历史文学">历史文学</option><option value="历史研究">历史研究</option><option value="历史评论">历史评论</option><option value="反乌托邦">反乌托邦</option><option value="商业">商业</option><option value="完美犯罪">完美犯罪</option><option value="当代随笔">当代随笔</option><option value="心理纪实">心理纪实</option><option value="推理小说">推理小说</option><option value="政治史">政治史</option><option value="政治哲学">政治哲学</option><option value="政治寓言体小说">政治寓言体小说</option><option value="散文集">散文集</option><option value="文学小说">文学小说</option><option value="民族叙事">民族叙事</option><option value="爱情">爱情</option><option value="现实魔幻">现实魔幻</option><option value="理财">理财</option><option value="社会文学">社会文学</option><option value="社会科学">社会科学</option><option value="科普">科普</option><option value="穿越历史">穿越历史</option><option value="纪实小说">纪实小说</option><option value="经济史">经济史</option><option value="网文">网文</option><option value="自然散文">自然散文</option><option value="诺贝尔文学奖">诺贝尔文学奖</option><option value="超现实小说">超现实小说</option><option value="软科幻">软科幻</option><option value="非虚构">非虚构</option></select>
+  <input id="q" placeholder="搜书名 / 作者">
+</div>
+<div class="wall" id="wall">
+<div class="bcard" data-status="在读" data-types="理财,商业" data-search="小狗钱钱 [德] 博多·舍费尔">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(312,32%,88%),hsl(352,30%,76%))">
+    <span class="cchar">小</span><span class="ctitle">小狗钱钱</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">小狗钱钱</div>
+    <div class="bauthor">[德] 博多·舍费尔</div>
+    <div class="brow"><span class="st" style="background:#2E7D4F">在读</span><span class="db">豆瓣 9.2</span></div>
+    <div class="bnote">通过小女孩吉娅和会说话的拉布拉多犬“钱钱”的童话故事，深入浅出地揭示了财富法则、自信心重塑（成功日记）与知行合一的底层逻辑，是成人与青少年通用的财商与心力启蒙经典。</div>
+    <div class="btags"><span class="tag">理财</span><span class="tag">商业</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="推理小说,社会文学" data-search="BLUE 叶真中显（日）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(129,32%,88%),hsl(169,30%,76%))">
+    <span class="cchar">B</span><span class="ctitle">BLUE</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">BLUE</div>
+    <div class="bauthor">叶真中显（日）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 7.9</span></div>
+    <div class="bnote">通过一桩跨越二十年的失踪案，细腻描绘了女性在破碎家庭与扭曲情感中，如深海般沉静却压抑的孤独与挣扎。</div>
+    <div class="btags"><span class="tag">推理小说</span><span class="tag">社会文学</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="历史研究,非虚构" data-search="万历十五年 黄仁宇（美）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(202,32%,88%),hsl(242,30%,76%))">
+    <span class="cchar">万</span><span class="ctitle">万历十五年</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">万历十五年</div>
+    <div class="bauthor">黄仁宇（美）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 9</span></div>
+    <div class="bnote">选取看似平庸的 1587 年作为切片，剖析大明王朝走向崩塌的结构性体制悲剧。</div>
+    <div class="btags"><span class="tag">历史研究</span><span class="tag">非虚构</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="历史小说" data-search="不做告别 韩江（韩）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(27,32%,88%),hsl(67,30%,76%))">
+    <span class="cchar">不</span><span class="ctitle">不做告别</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">不做告别</div>
+    <div class="bauthor">韩江（韩）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 7.6</span></div>
+    <div class="bnote">以极度细腻、诗意且冷冽的笔触，挖掘被风雪掩埋的济州岛屠杀真相，完成一场关于记忆与创伤的招魂。</div>
+    <div class="btags"><span class="tag">历史小说</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="政治寓言体小说" data-search="动物农场 乔治•奥威尔（英）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(51,32%,88%),hsl(91,30%,76%))">
+    <span class="cchar">动</span><span class="ctitle">动物农场</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">动物农场</div>
+    <div class="bauthor">乔治•奥威尔（英）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 9</span></div>
+    <div class="bnote">以荒诞的动物寓言为面具，深刻讽刺了革命如何背离初衷并最终演变为极权统治的悲剧循环。</div>
+    <div class="btags"><span class="tag">政治寓言体小说</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="超现实小说" data-search="地球星人 村田沙耶香（日）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(14,32%,88%),hsl(54,30%,76%))">
+    <span class="cchar">地</span><span class="ctitle">地球星人</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">地球星人</div>
+    <div class="bauthor">村田沙耶香（日）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 8.7</span></div>
+    <div class="bnote">极度荒诞而残酷的故事，描写受过创伤的男女试图通过自认为“外星人”的方式，彻底逃离地球社会的洗脑与压迫。</div>
+    <div class="btags"><span class="tag">超现实小说</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="传记,商业" data-search="埃隆·马斯克传 沃尔特·艾萨克森（美）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(216,32%,88%),hsl(256,30%,76%))">
+    <span class="cchar">埃</span><span class="ctitle">埃隆·马斯克传</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">埃隆·马斯克传</div>
+    <div class="bauthor">沃尔特·艾萨克森（美）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 8.6</span></div>
+    <div class="bnote">记录了一个极具争议的天才狂人，如何用极度的执着与近乎冷酷的效率，通过特斯拉与 SpaceX 强行改变人类未来。</div>
+    <div class="btags"><span class="tag">传记</span><span class="tag">商业</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="推理小说,社会文学" data-search="失控的照护 叶真中显（日）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(129,32%,88%),hsl(169,30%,76%))">
+    <span class="cchar">失</span><span class="ctitle">失控的照护</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">失控的照护</div>
+    <div class="bauthor">叶真中显（日）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 8</span></div>
+    <div class="bnote">以极其写实的笔触，直面高龄化社会中“长照杀人”的悲剧，发问当爱与责任被现实消磨殆尽时，普通人如何被逼向深渊</div>
+    <div class="btags"><span class="tag">推理小说</span><span class="tag">社会文学</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="理财" data-search="富爸爸，穷爸爸 罗伯特·T·清崎 / 莎伦·L·莱希特（美）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(312,32%,88%),hsl(352,30%,76%))">
+    <span class="cchar">富</span><span class="ctitle">富爸爸，穷爸爸</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">富爸爸，穷爸爸</div>
+    <div class="bauthor">罗伯特·T·清崎 / 莎伦·L·莱希特（美）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="db">豆瓣 8.3</span></div>
+    <div class="bnote">《富爸爸，穷爸爸》是一个真实的故事，作者罗伯特・清崎的亲生父亲和朋友的父亲对金钱的看法截然不同，这使他对认识金钱产生了兴趣，最终他接受了朋友的父亲的建议，也就是书中所说的。“富爸爸”的观念，即不要做金钱的奴隶，要让金钱为我们工作，并由此成为一名极富传奇色彩的成功的投资家。</div>
+    <div class="btags"><span class="tag">理财</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="" data-search="小狗钱钱2 [德] 博多·舍费尔">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(270,32%,88%),hsl(310,30%,76%))">
+    <span class="cchar">小</span><span class="ctitle">小狗钱钱2</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">小狗钱钱2</div>
+    <div class="bauthor">[德] 博多·舍费尔</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span></div>
+    <div class="bnote">《小狗钱钱》续作，延续吉娅与钱钱的故事，聚焦优秀品格的发掘与培养——从理财进阶到做人，是第一部的品格篇。</div>
+    <div class="btags"></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="历史小说" data-search="少年来了 韩江（韩）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(27,32%,88%),hsl(67,30%,76%))">
+    <span class="cchar">少</span><span class="ctitle">少年来了</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">少年来了</div>
+    <div class="bauthor">韩江（韩）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 9.2</span></div>
+    <div class="bnote">以光州事件为背景，用如诗般凄美的笔触，为历史暴行中逝去的灵魂与幸存者的创伤招魂。</div>
+    <div class="btags"><span class="tag">历史小说</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="历史文学" data-search="崇祯：勤政的亡国君 陈梧桐（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(101,32%,88%),hsl(141,30%,76%))">
+    <span class="cchar">崇</span><span class="ctitle">崇祯：勤政的亡国君</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">崇祯：勤政的亡国君</div>
+    <div class="bauthor">陈梧桐（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️</span></div>
+    <div class="bnote">剥开“天子”的政治外壳，展现一个勤勉却猜忌、平庸且生不逢时的悲剧统治者如何加速王朝覆灭。</div>
+    <div class="btags"><span class="tag">历史文学</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="纪实小说,传记" data-search="巨流河 齐邦媛（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(75,32%,88%),hsl(115,30%,76%))">
+    <span class="cchar">巨</span><span class="ctitle">巨流河</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">巨流河</div>
+    <div class="bauthor">齐邦媛（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 8.6</span></div>
+    <div class="bnote">以个人与家族的颠沛流离，书写从东北到台湾、跨越两岸的百年近代悲剧史。</div>
+    <div class="btags"><span class="tag">纪实小说</span><span class="tag">传记</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="文学小说" data-search="平凡的世界 路遥">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
+    <span class="cchar">平</span><span class="ctitle">平凡的世界</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">平凡的世界</div>
+    <div class="bauthor">路遥</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 9.1</span></div>
+    <div class="bnote">以陕北黄土高原为背景，全景式地展现了中国当代城乡社会生活，并刻画了孙少安、孙少平兄弟在重重苦难中坚韧奋斗、追求尊严的心灵史。</div>
+    <div class="btags"><span class="tag">文学小说</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="反乌托邦,软科幻" data-search="幸存者回忆录 多丽丝·莱辛（英）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(23,32%,88%),hsl(63,30%,76%))">
+    <span class="cchar">幸</span><span class="ctitle">幸存者回忆录</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">幸存者回忆录</div>
+    <div class="bauthor">多丽丝·莱辛（英）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 7.5</span></div>
+    <div class="bnote">多丽丝·莱辛作品。在城市文明崩塌的末日背景下，一位长者在墙壁之后观察一个少女的成长与世界的消亡。</div>
+    <div class="btags"><span class="tag">反乌托邦</span><span class="tag">软科幻</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="文学小说" data-search="废都 贾平凹（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
+    <span class="cchar">废</span><span class="ctitle">废都</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">废都</div>
+    <div class="bauthor">贾平凹（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 7.5</span></div>
+    <div class="bnote">通过一个文人的荒唐与迷茫，折射出 90 年代转型期都市知识分子的精神困顿。</div>
+    <div class="btags"><span class="tag">文学小说</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="推理小说,社会文学" data-search="恶女的告白 叶真中显（日）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(129,32%,88%),hsl(169,30%,76%))">
+    <span class="cchar">恶</span><span class="ctitle">恶女的告白</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">恶女的告白</div>
+    <div class="bauthor">叶真中显（日）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 8.4</span></div>
+    <div class="bnote">通过一个被冠以“毒妇”之名的女性视角，层层剥开社会偏见与恶意，展现了在男权凝视下，女性为了生存与复仇而进行的残酷博弈</div>
+    <div class="btags"><span class="tag">推理小说</span><span class="tag">社会文学</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="散文集" data-search="我与地坛 史铁生（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(184,32%,88%),hsl(224,30%,76%))">
+    <span class="cchar">我</span><span class="ctitle">我与地坛</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">我与地坛</div>
+    <div class="bauthor">史铁生（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 9.3</span></div>
+    <div class="bnote">在荒芜古园的静谧中，一位残疾作家与地坛、生命以及母亲达成了最深沉的和解。</div>
+    <div class="btags"><span class="tag">散文集</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="心理纪实,非虚构" data-search="早安怪物 [加] 凯瑟琳·吉尔迪纳">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(297,32%,88%),hsl(337,30%,76%))">
+    <span class="cchar">早</span><span class="ctitle">早安怪物</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">早安怪物</div>
+    <div class="bauthor">[加] 凯瑟琳·吉尔迪纳</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 9</span></div>
+    <div class="bnote">过讲述五位遭受过严重心理创伤的咨询者如何通过极强的生命韧性完成自我救赎，深刻揭示了人性在黑暗深渊中反抗与复原的力量。</div>
+    <div class="btags"><span class="tag">心理纪实</span><span class="tag">非虚构</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="文学小说" data-search="月亮与六便士 毛姆（英）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
+    <span class="cchar">月</span><span class="ctitle">月亮与六便士</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">月亮与六便士</div>
+    <div class="bauthor">毛姆（英）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 8.7</span></div>
+    <div class="bnote">讲述天才画家为了追逐纯粹的艺术理想（月亮），不惜抛弃现实生活（六便士）的偏执故事。</div>
+    <div class="btags"><span class="tag">文学小说</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="社会科学,经济史" data-search="权利与进步 戴伦·艾塞默鲁 / 赛门·强森">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(31,32%,88%),hsl(71,30%,76%))">
+    <span class="cchar">权</span><span class="ctitle">权利与进步</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">权利与进步</div>
+    <div class="bauthor">戴伦·艾塞默鲁 / 赛门·强森</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️</span><span class="db">豆瓣 7.9</span></div>
+    <div class="bnote">深入剖析技术进步如何被权力掌控，警示我们要确保科技增益于大众而非少数精英。</div>
+    <div class="btags"><span class="tag">社会科学</span><span class="tag">经济史</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="文学小说" data-search="活着 余华（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
+    <span class="cchar">活</span><span class="ctitle">活着</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">活着</div>
+    <div class="bauthor">余华（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="db">豆瓣 9.4</span></div>
+    <div class="bnote">余华代表作，福贵一生的苦难与坚韧，中国当代文学经典。</div>
+    <div class="btags"><span class="tag">文学小说</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="纪实小说" data-search="秋园 杨本芬（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(75,32%,88%),hsl(115,30%,76%))">
+    <span class="cchar">秋</span><span class="ctitle">秋园</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">秋园</div>
+    <div class="bauthor">杨本芬（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 9</span></div>
+    <div class="bnote">80岁奶奶写就的生命之歌，记录了在那段动荡岁月里，一个普通中国母亲如何像水草一样坚韧地活下去。</div>
+    <div class="btags"><span class="tag">纪实小说</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="历史评论,政治史" data-search="秦制两千年 谌旭彬（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(302,32%,88%),hsl(342,30%,76%))">
+    <span class="cchar">秦</span><span class="ctitle">秦制两千年</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">秦制两千年</div>
+    <div class="bauthor">谌旭彬（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️</span><span class="db">豆瓣 8.1</span></div>
+    <div class="bnote">穿透帝制的表象，揭示中国历代统治逻辑中“外儒内法”与中央集权的深层演变。</div>
+    <div class="btags"><span class="tag">历史评论</span><span class="tag">政治史</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="网文,穿越历史" data-search="秦吏 七月新番（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(264,32%,88%),hsl(304,30%,76%))">
+    <span class="cchar">秦</span><span class="ctitle">秦吏</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">秦吏</div>
+    <div class="bauthor">七月新番（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 8.9</span></div>
+    <div class="bnote">以一个小官吏的视角穿越回秦朝，极其硬核地还原了秦律治理下的社会运作细节。</div>
+    <div class="btags"><span class="tag">网文</span><span class="tag">穿越历史</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="文学小说,爱情,诺贝尔文学奖" data-search="窄门 安德烈·纪德（法）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
+    <span class="cchar">窄</span><span class="ctitle">窄门</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">窄门</div>
+    <div class="bauthor">安德烈·纪德（法）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 7.4</span></div>
+    <div class="bnote">探讨纯粹到极致的宗教信仰与爱情之间的冲突，呈现了一段令人窒息的精神苦修。</div>
+    <div class="btags"><span class="tag">文学小说</span><span class="tag">爱情</span><span class="tag">诺贝尔文学奖</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="政治哲学" data-search="精英的傲慢 迈克尔·桑德尔（美）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(258,32%,88%),hsl(298,30%,76%))">
+    <span class="cchar">精</span><span class="ctitle">精英的傲慢</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">精英的傲慢</div>
+    <div class="bauthor">迈克尔·桑德尔（美）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 7.8</span></div>
+    <div class="bnote">抨击“优绩主义”的陷阱，反思为何现代精英的优越感正在撕裂社会的公正与团结</div>
+    <div class="btags"><span class="tag">政治哲学</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="文学小说,诺贝尔文学奖" data-search="素食者 韩江（韩）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
+    <span class="cchar">素</span><span class="ctitle">素食者</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">素食者</div>
+    <div class="bauthor">韩江（韩）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 8.1</span></div>
+    <div class="bnote">通过一个女人拒绝食肉的极端行为，揭示了个人意志在父权社会与集体暴力压迫下的彻底异化</div>
+    <div class="btags"><span class="tag">文学小说</span><span class="tag">诺贝尔文学奖</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="推理小说,完美犯罪" data-search="绝叫 叶真中显（日）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(129,32%,88%),hsl(169,30%,76%))">
+    <span class="cchar">绝</span><span class="ctitle">绝叫</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">绝叫</div>
+    <div class="bauthor">叶真中显（日）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 8.9</span></div>
+    <div class="bnote">以“孤独死”为引，残忍而写实地复盘一个普通女性如何在社会压力下走向堕落与新生</div>
+    <div class="btags"><span class="tag">推理小说</span><span class="tag">完美犯罪</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="文学小说,现实魔幻" data-search="群山之巅 迟子建（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
+    <span class="cchar">群</span><span class="ctitle">群山之巅</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">群山之巅</div>
+    <div class="bauthor">迟子建（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 7.6</span></div>
+    <div class="bnote">通过龙盏镇多个家族的命运更迭，全景式地描绘了社会转型期东北山地卑微人物在罪恶与救赎中的生存百态。</div>
+    <div class="btags"><span class="tag">文学小说</span><span class="tag">现实魔幻</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="当代随笔" data-search="遥远的向日葵地 李娟（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(169,32%,88%),hsl(209,30%,76%))">
+    <span class="cchar">遥</span><span class="ctitle">遥远的向日葵地</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">遥远的向日葵地</div>
+    <div class="bauthor">李娟（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️</span><span class="db">豆瓣 9.1</span></div>
+    <div class="bnote">在新疆阿勒泰的荒原上，记录母亲与家人在严酷自然中勤劳、坚韧且充满生机的生存状态</div>
+    <div class="btags"><span class="tag">当代随笔</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="文学小说,民族叙事" data-search="额尔古纳河右岸 迟子建（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
+    <span class="cchar">额</span><span class="ctitle">额尔古纳河右岸</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">额尔古纳河右岸</div>
+    <div class="bauthor">迟子建（中）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 8.9</span></div>
+    <div class="bnote">鄂温克族最后一位酋长女人的自述，是一曲关于北方游牧文明与原始自然共生的挽歌。</div>
+    <div class="btags"><span class="tag">文学小说</span><span class="tag">民族叙事</span></div>
+  </div>
+</div><div class="bcard" data-status="已读" data-types="科普,自然散文" data-search="鳗鱼的旅行 帕特里克•斯文松（瑞典）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(167,32%,88%),hsl(207,30%,76%))">
+    <span class="cchar">鳗</span><span class="ctitle">鳗鱼的旅行</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">鳗鱼的旅行</div>
+    <div class="bauthor">帕特里克•斯文松（瑞典）</div>
+    <div class="brow"><span class="st" style="background:#A63F2E">已读</span><span class="rt">⭐️⭐️⭐️⭐️</span><span class="db">豆瓣 8.7</span></div>
+    <div class="bnote">将科学考察与个人回忆交织，在探索神秘鳗鱼的同时，反思人类对生命起源的追寻。</div>
+    <div class="btags"><span class="tag">科普</span><span class="tag">自然散文</span></div>
+  </div>
+</div><div class="bcard" data-status="想读" data-types="文学小说" data-search="人间便利店 村田沙耶香（日）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
+    <span class="cchar">人</span><span class="ctitle">人间便利店</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">人间便利店</div>
+    <div class="bauthor">村田沙耶香（日）</div>
+    <div class="brow"><span class="st" style="background:#8a8578">想读</span><span class="db">豆瓣 7.7</span></div>
+    <div class="bnote">一个无法融入社会的“异类”女性，通过精准模仿便利店的运行规则，才勉强获得作为“正常人”的入场券。</div>
+    <div class="btags"><span class="tag">文学小说</span></div>
+  </div>
+</div><div class="bcard" data-status="想读" data-types="文学小说,诺贝尔文学奖" data-search="耻 J.M. 库切（南非）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(64,32%,88%),hsl(104,30%,76%))">
+    <span class="cchar">耻</span><span class="ctitle">耻</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">耻</div>
+    <div class="bauthor">J.M. 库切（南非）</div>
+    <div class="brow"><span class="st" style="background:#8a8578">想读</span><span class="db">豆瓣 8.6</span></div>
+    <div class="bnote">围绕一桩旧案，细腻刻画了女性在复杂的人际网和内心世界中，关于欲望、羞耻感与自我救赎的深度博弈。</div>
+    <div class="btags"><span class="tag">文学小说</span><span class="tag">诺贝尔文学奖</span></div>
+  </div>
+</div><div class="bcard" data-status="缓缓" data-types="历史评论" data-search="失去的三百年 郭建龙（中）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(302,32%,88%),hsl(342,30%,76%))">
+    <span class="cchar">失</span><span class="ctitle">失去的三百年</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">失去的三百年</div>
+    <div class="bauthor">郭建龙（中）</div>
+    <div class="brow"><span class="st" style="background:#8a8578">缓缓</span><span class="db">豆瓣 8.2</span></div>
+    <div class="bnote">深入剖析东亚（特别是中国）在明清时期如何从领先走向滞后，探讨社会结构与思维惯性如何错失大航海时代的机遇。</div>
+    <div class="btags"><span class="tag">历史评论</span></div>
+  </div>
+</div><div class="bcard" data-status="缓缓" data-types="社会科学" data-search="趋势2030 莫洛·F.纪廉（西班牙）">
+  <div class="cover" style="background:linear-gradient(135deg,hsl(31,32%,88%),hsl(71,30%,76%))">
+    <span class="cchar">趋</span><span class="ctitle">趋势2030</span>
+  </div>
+  <div class="bmeta">
+    <div class="btitle">趋势2030</div>
+    <div class="bauthor">莫洛·F.纪廉（西班牙）</div>
+    <div class="brow"><span class="st" style="background:#8a8578">缓缓</span><span class="db">豆瓣 6</span></div>
+    <div class="bnote">沃顿商学院教授通过人口、财富和技术的多维分析，预言未来十年全球权力的剧烈洗牌与社会逻辑的彻底重构。</div>
+    <div class="btags"><span class="tag">社会科学</span></div>
+  </div>
+</div>
+</div>
+<div class="empty" id="empty">没有匹配的书，换个条件试试</div>
+<footer class="site">香芋的读书笔记 · 读完的书，在这里安家</footer>
+</div>
+<script>
+var st='',tp='',q='';
+function apply(){
+  var n=0;
+  document.querySelectorAll('.bcard').forEach(function(c){
+    var ok=(!st||c.dataset.status===st)&&(!tp||c.dataset.types.split(',').indexOf(tp)>=0)&&(!q||c.dataset.search.toLowerCase().indexOf(q)>=0);
+    c.classList.toggle('hide',!ok); if(ok)n++;
+  });
+  document.getElementById('empty').style.display=n?'none':'block';
+}
+document.querySelectorAll('.chip').forEach(function(ch){
+  ch.onclick=function(){document.querySelectorAll('.chip').forEach(function(x){x.classList.remove('on')});ch.classList.add('on');st=ch.dataset.s;apply();};
+});
+document.getElementById('tsel').onchange=function(e){tp=e.target.value;apply();};
+document.getElementById('q').oninput=function(e){q=e.target.value.trim().toLowerCase();apply();};
+</script>
+</body></html>
