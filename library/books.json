@@ -1,5 +1,603 @@
 [
  {
+  "title": "卡拉马佐夫兄弟",
+  "author": "费奥多·陀思妥耶夫斯基（俄）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "红楼梦",
+  "author": "曹雪芹（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "全宋词",
+  "author": "唐圭璋（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 9.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "1984",
+  "author": "乔治·奥威尔",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "东晋门阀政治",
+  "author": "田余庆（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "加缪全集 （套装共6卷） (阿尔贝•加缪)",
+  "author": "阿尔贝·加缪（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "天朝的崩溃",
+  "author": "茅海建（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "活着",
+  "author": "余华（中）",
+  "status": "已读",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.4,
+  "channel": "",
+  "note": "余华代表作，福贵一生的苦难与坚韧，中国当代文学经典。",
+  "cover": "covers/ca17f0b7e73.svg"
+ },
+ {
+  "title": "艺术的故事 (Ernst Hans Gombrich 冈布里奇)",
+  "author": "恩斯特·贡布里希（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 9.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "三毛流浪记（全集）",
+  "author": "张乐平（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "中国历代政治得失",
+  "author": "钱穆（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "亲密关系",
+  "author": "克里斯多福·孟（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "人生的智慧",
+  "author": "叔本华（德）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "冰与火之歌1-5卷（全15册)",
+  "author": "乔治·R·R·马丁（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "唐诗三百首",
+  "author": "孙洙（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "围城",
+  "author": "钱钟书（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "存在主义心理治疗 (欧文·D·亚隆 欧文·D·亚隆)",
+  "author": "欧文·D·亚隆（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "存在主义心理治疗 (欧文·D·亚隆)",
+  "author": "欧文·D·亚隆（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "定西孤儿院-杨显惠",
+  "author": "杨显惠（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "庄子今注今译+老子今注今译+墨子今注今译（共三种）",
+  "author": "陈鼓应（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "悉达多",
+  "author": "赫尔曼·黑塞（德）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我与地坛",
+  "author": "史铁生（中）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️⭐️",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9.3,
+  "channel": "iBooks",
+  "note": "在荒芜古园的静谧中，一位残疾作家与地坛、生命以及母亲达成了最深沉的和解。",
+  "cover": "covers/c5f02f0fe75.svg"
+ },
+ {
+  "title": "托尔斯泰小说全集（草婴译）",
+  "author": "列夫·托尔斯泰（俄）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "水浒传（金圣叹批评本）",
+  "author": "施耐庵（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "王树增战争系列（全5册·含长征）",
+  "author": "王树增（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "生活与命运",
+  "author": "瓦西里·格罗斯曼（俄）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "百年孤独",
+  "author": "加西亚·马尔克斯（哥伦比亚）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "百年孤独 (根据马尔克斯指定版本翻译,未做任何增删) (加西亚•马尔克斯, 范晔)",
+  "author": "加西亚·马尔克斯（哥伦比亚）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "草婴译著全集",
+  "author": "草婴（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "莎士比亚全集",
+  "author": "威廉·莎士比亚（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "西方文明中的音乐 （美）保罗·亨利·朗著",
+  "author": "保罗·亨利·朗（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "诗经注析",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "资治通鉴全译本（柏杨版）",
+  "author": "司马光（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "资治通鉴（全四册）",
+  "author": "司马光（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "金圣叹批评本水浒传",
+  "author": "金圣叹（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "金圣叹批评本水浒传（上下）",
+  "author": "金圣叹（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "飘",
+  "author": "玛格丽特·米切尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "中国哲学简史",
+  "author": "冯友兰（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "中国近代史",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "乡土中国",
+  "author": "费孝通（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "全译罗马帝国衰亡史（全12册）",
+  "author": "爱德华·吉本（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "动物庄园",
+  "author": "乔治·奥威尔（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "基地",
+  "author": "艾萨克·阿西莫夫（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "大明王朝1566 Unknown",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "契诃夫短篇小说选",
+  "author": "安东·契诃夫（俄）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "安徒生童话",
+  "author": "汉斯·克里斯蒂安·安徒生（丹麦）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
   "title": "小狗钱钱",
   "author": "[德] 博多·舍费尔",
   "status": "在读",
@@ -14,18 +612,578 @@
   "cover": "covers/c5d15608264.svg"
  },
  {
-  "title": "BLUE",
-  "author": "叶真中显（日）",
+  "title": "少年来了",
+  "author": "韩江（韩）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️⭐️",
+  "types": [
+   "历史小说"
+  ],
+  "douban": 9.2,
+  "channel": "Kindle",
+  "note": "以光州事件为背景，用如诗般凄美的笔触，为历史暴行中逝去的灵魂与幸存者的创伤招魂。",
+  "cover": "covers/c66b9d6a38a.svg"
+ },
+ {
+  "title": "张爱玲大全集（18部作品）",
+  "author": "张爱玲（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "房思琪的初恋乐园",
+  "author": "林奕含（中国台湾）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "杀死一只知更鸟",
+  "author": "哈珀·李（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "楚辞今注",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "汪曾祺经典典藏文集",
+  "author": "汪曾祺（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "白鹿原",
+  "author": "陈忠实（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "论美国的民主",
+  "author": "亚历克西·德·托克维尔（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "论语",
+  "author": "孔子（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "近代中国社会的新陈代谢",
+  "author": "陈旭麓（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "邓小平时代",
+  "author": "傅高义（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "霍布斯鲍姆年代四部曲（套装共4册）",
+  "author": "霍布斯鲍姆（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史",
+   "历史研究"
+  ],
+  "douban": 9.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "上帝掷骰子吗",
+  "author": "曹天元（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "世说新语",
+  "author": "刘义庆（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "乐府诗集",
+  "author": "郭茂倩（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "人类简史-从动物到上帝",
+  "author": "尤瓦尔·赫拉利（以色列）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "从一到无穷大",
+  "author": "伽莫夫（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "你一生的故事",
+  "author": "特德·姜（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "别闹了，费曼先生：科学顽童的故事",
+  "author": "理查德·费曼（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "叫魂 1768年中国妖术大恐慌 (孔飞力,Philip Alden Kuhn,陈兼, 刘昶)",
+  "author": "孔飞力（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "平凡的世界",
+  "author": "路遥",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️⭐️",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.1,
+  "channel": "纸质书",
+  "note": "以陕北黄土高原为背景，全景式地展现了中国当代城乡社会生活，并刻画了孙少安、孙少平兄弟在重重苦难中坚韧奋斗、追求尊严的心灵史。",
+  "cover": "covers/c84f83137e7.svg"
+ },
+ {
+  "title": "悲惨世界",
+  "author": "维克多·雨果（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "明朝那些事儿（图文增补版） (当年明月)",
+  "author": "当年明月（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "明朝那些事儿（精编全集）",
+  "author": "当年明月（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "昨日的世界：一个欧洲人的回忆",
+  "author": "斯蒂芬·茨威格（奥地利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "梵高传",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "江城",
+  "author": "彼得·海斯勒（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "沉默的大多数",
+  "author": "王小波（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "浮士德（译文名著典藏）",
+  "author": "约翰·沃尔夫冈·冯·歌德（德）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "海伯利安",
+  "author": "丹·西蒙斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说",
+   "软科幻"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "白夜行",
+  "author": "东野圭吾（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "福尔摩斯探案全集",
+  "author": "阿瑟·柯南·道尔（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "福尔摩斯探案全集（插图新注新译本）全七册 (【英】亚瑟·柯南·道尔,李家真译)",
+  "author": "阿瑟·柯南·道尔（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "约翰·克利斯朵夫（全四册）",
+  "author": "罗曼·罗兰（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "罪与罚",
+  "author": "费奥多尔·陀思妥耶夫斯基（俄）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "置身事内",
+  "author": "兰小欢（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "肖申克的救赎",
+  "author": "斯蒂芬·金（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "遥远的向日葵地",
+  "author": "李娟（中）",
   "status": "已读",
   "rating": "⭐️⭐️⭐️",
   "types": [
-   "推理小说",
-   "社会文学"
+   "当代随笔"
   ],
-  "douban": 7.9,
+  "douban": 9.1,
   "channel": "微信读书",
-  "note": "通过一桩跨越二十年的失踪案，细腻描绘了女性在破碎家庭与扭曲情感中，如深海般沉静却压抑的孤独与挣扎。",
-  "cover": "covers/c1b3e1ee9bf.svg"
+  "note": "在新疆阿勒泰的荒原上，记录母亲与家人在严酷自然中勤劳、坚韧且充满生机的生存状态",
+  "cover": "covers/c0b34a7634a.svg"
+ },
+ {
+  "title": "银河英雄传说（完美合集）",
+  "author": "田中芳树（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "随想录",
+  "author": "巴金（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "额尔古纳河右岸 迟子建",
+  "author": "迟子建（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "魔戒全集",
+  "author": "J.R.R.托尔金（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 9.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "“太空漫游”四部曲 (阿瑟·克拉克)",
+  "author": "阿瑟·克拉克（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "一只特立独行的猪",
+  "author": "王小波（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
   "title": "万历十五年",
@@ -42,17 +1200,160 @@
   "cover": "covers/c3c033b1e51.svg"
  },
  {
-  "title": "不做告别",
-  "author": "韩江（韩）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️",
+  "title": "万历十五年 黄仁宇（Ray Huang）",
+  "author": "黄仁宇（美）",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "历史小说"
+   "历史"
   ],
-  "douban": 7.6,
-  "channel": "Kindle",
-  "note": "以极度细腻、诗意且冷冽的笔触，挖掘被风雪掩埋的济州岛屠杀真相，完成一场关于记忆与创伤的招魂。",
-  "cover": "covers/cf852c271de.svg"
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "三岛由纪夫作品集 (套装共15册) (三岛由纪夫 (Mishima Yukio))",
+  "author": "三岛由纪夫（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "上学记",
+  "author": "何兆武（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "也许你该找个人聊聊",
+  "author": "洛莉·戈特利布（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "人间词话",
+  "author": "王国维（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "传习录",
+  "author": "王阳明（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "伯罗奔尼撒战争史",
+  "author": "修昔底德（古希腊）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "傲慢与偏见",
+  "author": "简·奥斯汀（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "光变：一个企业及其工业史 (路风 路风)",
+  "author": "路风（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "光变：一个企业及其工业史 (路风)",
+  "author": "路风（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "全球通史：从史前到21世纪",
+  "author": "斯塔夫里阿诺斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "刀锋",
+  "author": "威廉·萨默塞特·毛姆（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
   "title": "动物农场",
@@ -68,6 +1369,1748 @@
   "cover": "covers/c658b4fe9b6.svg"
  },
  {
+  "title": "包法利夫人",
+  "author": "居斯塔夫·福楼拜（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "博尔赫斯小说集",
+  "author": "豪尔赫·路易斯·博尔赫斯（阿根廷）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "变形记：卡夫卡中短篇小说全集",
+  "author": "卡夫卡（奥）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说",
+   "短篇小说集",
+   "超现实小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "古文观止",
+  "author": "吴楚材 / 吴调侯（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "可能性的艺术：比较政治学30讲（学者刘瑜比较政治学新著，跳出现象，通过比较洞察政治，突破认知偏见，在浩瀚的可能性中理解我们自身 理想国出品） 刘瑜",
+  "author": "刘瑜（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "哈利·波特全集 (J.K.罗琳)",
+  "author": "J.K.罗琳（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "哈利·波特（完美全集）",
+  "author": "J.K.罗琳（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "哈耶克作品集（通往奴役之路+自由宪章+致命的自负）",
+  "author": "哈耶克（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学",
+   "政治哲学",
+   "经济史"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "基督山伯爵",
+  "author": "大仲马（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "寻路中国",
+  "author": "彼得·海斯勒（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "小王子(精排四语插图版& 41;",
+  "author": "安托万·德·圣埃克絮佩里（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "尼采著作集（九册）",
+  "author": "弗里德里希·尼采（德）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "川端康成至美典藏全集（全十册） (川端康成)",
+  "author": "川端康成（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "巴尔扎克精选译文集16册",
+  "author": "巴尔扎克（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说",
+   "短篇小说集"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "心理学与生活 (第19版) = Psychology and Life (美 理查德 · 格里格 (Richard Gerrig) etc.)",
+  "author": "理查德·格里格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "撒哈拉的故事",
+  "author": "三毛（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "文学回忆录（理想国出品）",
+  "author": "木心（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "早安怪物",
+  "author": "[加] 凯瑟琳·吉尔迪纳",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️",
+  "types": [
+   "心理纪实",
+   "非虚构"
+  ],
+  "douban": 9,
+  "channel": "Kindle",
+  "note": "过讲述五位遭受过严重心理创伤的咨询者如何通过极强的生命韧性完成自我救赎，深刻揭示了人性在黑暗深渊中反抗与复原的力量。",
+  "cover": "covers/ca1de352c2e.svg"
+ },
+ {
+  "title": "月亮和六便士",
+  "author": "威廉·萨默塞特·毛姆（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "毛姆作品集（套装共14册）",
+  "author": "威廉·萨默塞特·毛姆（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "活着为了讲述",
+  "author": "加西亚·马尔克斯（哥伦比亚）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "王小波时代三部曲（黄金时代+白银时代+青铜时代）",
+  "author": "王小波（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "王尔德童话 再编集",
+  "author": "奥斯卡·王尔德（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "理想国 (Plato)",
+  "author": "柏拉图（古希腊）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "病隙碎笔",
+  "author": "史铁生（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "看不见的城市",
+  "author": "伊塔洛·卡尔维诺（意）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "社会心理学 戴维迈尔斯",
+  "author": "戴维·迈尔斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "神雕侠侣（三联版）",
+  "author": "金庸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "秋园",
+  "author": "杨本芬（中）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️",
+  "types": [
+   "纪实小说"
+  ],
+  "douban": 9,
+  "channel": "iBooks",
+  "note": "80岁奶奶写就的生命之歌，记录了在那段动荡岁月里，一个普通中国母亲如何像水草一样坚韧地活下去。",
+  "cover": "covers/c2b4afbaceb.svg"
+ },
+ {
+  "title": "秋园 杨本芬",
+  "author": "杨本芬（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "第一哲学沉思集",
+  "author": "笛卡尔（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "政治哲学"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "第二性",
+  "author": "西蒙娜·德·波伏瓦（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "给一个青年诗人的十封信",
+  "author": "莱纳·玛利亚·里尔克（奥地利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "茨威格小说全集（全4册）",
+  "author": "斯蒂芬·茨威格（奥地利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "许三观卖血记",
+  "author": "余华（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "钱穆国学作品集",
+  "author": "钱穆（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "陈寅恪魏晋南北朝史讲演录",
+  "author": "陈寅恪（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "霍乱时期的爱情",
+  "author": "加西亚·马尔克斯（哥伦比亚）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "静静的顿河",
+  "author": "米哈伊尔·肖洛霍夫（苏联）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "鲁尔福三部曲",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "黑塞文集（全10卷）",
+  "author": "赫尔曼·黑塞（德）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "万物有灵且美",
+  "author": "吉米·哈利（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "万物简史+趣味生活简史",
+  "author": "比尔·布莱森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "三体",
+  "author": "刘慈欣（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "三体（全集）",
+  "author": "刘慈欣（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "不能承受的生命之轻",
+  "author": "米兰·昆德拉（捷克）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "傅雷家书",
+  "author": "傅雷（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "剑桥中国史（全集）",
+  "author": "费正清等（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "哈尔罗杰历险记（全集）",
+  "author": "威勒德·普赖斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "地球往事",
+  "author": "刘慈欣（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "士与中国文化",
+  "author": "余英时（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "大唐狄公案（全集）",
+  "author": "高罗佩（荷兰）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "大师与玛格丽特",
+  "author": "米哈伊尔·布尔加科夫（俄）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "嫌疑人X的献身",
+  "author": "东野圭吾（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "局外人",
+  "author": "阿尔贝·加缪（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "日瓦戈医生",
+  "author": "帕斯捷尔纳克（苏）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说",
+   "历史小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "旧制度与大革命",
+  "author": "阿列克西·德·托克维尔（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "活出意义来",
+  "author": "维克多·弗兰克尔（奥地利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "源氏物语",
+  "author": "紫式部（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "物种起源",
+  "author": "查尔斯·达尔文（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "献给阿尔吉侬的花束",
+  "author": "丹尼尔·凯斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "秦吏",
+  "author": "七月新番（中）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️⭐️",
+  "types": [
+   "网文",
+   "穿越历史"
+  ],
+  "douban": 8.9,
+  "channel": "iBooks",
+  "note": "以一个小官吏的视角穿越回秦朝，极其硬核地还原了秦律治理下的社会运作细节。",
+  "cover": "covers/c92145d2a17.svg"
+ },
+ {
+  "title": "第三帝国的兴亡",
+  "author": "威廉·夏伊勒（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "索拉里斯星",
+  "author": "斯坦尼斯瓦夫·莱姆（波兰）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "绝叫",
+  "author": "叶真中显（日）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️⭐️",
+  "types": [
+   "推理小说",
+   "完美犯罪"
+  ],
+  "douban": 8.9,
+  "channel": "iBooks",
+  "note": "以“孤独死”为引，残忍而写实地复盘一个普通女性如何在社会压力下走向堕落与新生",
+  "cover": "covers/cb148b165cc.svg"
+ },
+ {
+  "title": "绝叫 叶真中显",
+  "author": "叶真中显（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "美的历程",
+  "author": "李泽厚（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "翁贝托·埃科重要代表作品集（全12册）",
+  "author": "翁贝托·埃科（意大利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "自私的基因",
+  "author": "理查德·道金斯（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "舒克和贝塔全传",
+  "author": "郑渊洁（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "蒙田随笔全集（全3册）",
+  "author": "米歇尔·德·蒙田（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "规训与惩罚：监狱的诞生",
+  "author": "米歇尔·福柯（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "边城",
+  "author": "沈从文（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "追风筝的人",
+  "author": "卡勒德·胡赛尼（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "金瓶梅词话",
+  "author": "兰陵笑笑生（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "金翼：一个中国家族的史记 (林耀华著；庄孔韶，方静文译, Yaohua Lin, Kongshao Zhuang etc.)",
+  "author": "林耀华（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "雅舍小品全集",
+  "author": "梁实秋（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "额尔古纳河右岸",
+  "author": "迟子建（中）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️⭐️",
+  "types": [
+   "文学小说",
+   "民族叙事"
+  ],
+  "douban": 8.9,
+  "channel": "iBooks",
+  "note": "鄂温克族最后一位酋长女人的自述，是一曲关于北方游牧文明与原始自然共生的挽歌。",
+  "cover": "covers/ce692ab3c62.svg"
+ },
+ {
+  "title": "麦田里的守望者",
+  "author": "杰罗姆·大卫·塞林格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "39-《艾伦·图灵传：如迷的解谜者》",
+  "author": "安德鲁·霍奇斯（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "一句顶一万句 刘震云",
+  "author": "刘震云（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "九州缥缈录",
+  "author": "江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "人间失格",
+  "author": "太宰治（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "光荣与梦想-威廉.曼彻斯特",
+  "author": "威廉·曼彻斯特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "光荣与梦想：1932-1972年美国社会实录",
+  "author": "威廉·曼彻斯特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "光荣与梦想：1932〜1972年美国社会实录",
+  "author": "威廉·曼彻斯特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "午夜将至",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "堂吉诃德",
+  "author": "塞万提斯（西班牙）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "媒介批评三部曲（娱乐至死+童年的消逝+技术垄断）",
+  "author": "尼尔·波兹曼（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "张五常 - 经济解释前3卷",
+  "author": "张五常（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "张五常-经济解释前3卷",
+  "author": "张五常（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "张五常《经济解释》1 2 3卷",
+  "author": "张五常（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "张五常《经济解释》卷4五常学经济",
+  "author": "张五常（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "张五常：经济解释第一卷",
+  "author": "张五常（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "彼得·潘",
+  "author": "詹姆斯·巴里（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "愤怒的葡萄",
+  "author": "约翰·斯坦贝克（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我们仨",
+  "author": "杨绛（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我的阿勒泰",
+  "author": "李娟（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "斯通纳 (约翰·威廉斯 John Edward Williams)",
+  "author": "约翰·威廉斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "时间简史",
+  "author": "史蒂芬·霍金（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "枪炮、病菌与钢铁 贾雷德·戴蒙德",
+  "author": "贾雷德·戴蒙德（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "沉思录",
+  "author": "马可·奥勒留（古罗马）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "流俗地 (马来西亚 黎紫书)",
+  "author": "黎紫书（马来西亚）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "流俗地 黎紫書",
+  "author": "黎紫书（马来西亚）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "湘行散记",
+  "author": "沈从文（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集",
+   "自然散文"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "灿烂千阳",
+  "author": "卡勒德·胡赛尼（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "看见",
+  "author": "柴静（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "神曲",
+  "author": "但丁·阿利吉耶里（意大利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "窗边的小豆豆",
+  "author": "黑柳彻子（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "第二次世界大战回忆录",
+  "author": "温斯顿·丘吉尔（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "缘缘堂随笔（足本）",
+  "author": "丰子恺（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "莫泊桑短篇小说精选集",
+  "author": "居伊·德·莫泊桑（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "营销管理",
+  "author": "菲利普·科特勒（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "论自由（译林人文精选）",
+  "author": "约翰·斯图尔特·密尔（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "郭廷以-近代中国史纲上",
+  "author": "郭廷以（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "金瓶梅（崇祯版）",
+  "author": "兰陵笑笑生（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "银河系搭车客指南",
+  "author": "道格拉斯·亚当斯（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "银河系漫游指南",
+  "author": "道格拉斯·亚当斯（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "鬼吹灯8部全集图文版 (天下霸唱)",
+  "author": "天下霸唱（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "鬼吹灯全集（插图版）",
+  "author": "天下霸唱（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "鬼吹灯（全集插图版）",
+  "author": "天下霸唱（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "2-20世纪初中国政治改革风潮清末立宪运动史",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "<b>野草在歌唱</b>",
+  "author": "多丽丝·莱辛（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说",
+   "诺贝尔文学奖"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "一课经济学",
+  "author": "亨利·黑兹利特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "一课经济学--（美）亨利·黑兹利特--扫描版",
+  "author": "亨利·黑兹利特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "中国文化要义",
+  "author": "梁漱溟（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "亨利·黑兹利特-一课经济学",
+  "author": "亨利·黑兹利特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "亲爱的安德烈",
+  "author": "龙应台 / 安德烈（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "八月炮火",
+  "author": "巴巴拉·塔奇曼（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史",
+   "政治史"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "南明史-(美)司徒琳--模糊",
+  "author": "司徒琳（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "呼兰河传",
+  "author": "萧红（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "喧哗与骚动",
+  "author": "威廉·福克纳（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "国富论",
+  "author": "亚当·斯密（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
   "title": "地球星人",
   "author": "村田沙耶香（日）",
   "status": "已读",
@@ -79,6 +3122,609 @@
   "channel": "Kindle",
   "note": "极度荒诞而残酷的故事，描写受过创伤的男女试图通过自认为“外星人”的方式，彻底逃离地球社会的洗脑与压迫。",
   "cover": "covers/cf0c9279362.svg"
+ },
+ {
+  "title": "安妮日记",
+  "author": "安妮·弗兰克（德）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记",
+   "非虚构",
+   "历史文学"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "安德的游戏三部曲(卡德科幻巨作，连续两年包揽“雨果”、“星云”两大世界级科幻奖作品)(安德的游戏+死者代言人+安德的影子)(套装共3册)",
+  "author": "奥森·斯科特·卡德（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "幸福之路",
+  "author": "伯特兰·罗素（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "政治哲学",
+   "社会科学"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "怀斯曼生存手册",
+  "author": "约翰·怀斯曼（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我是猫",
+  "author": "夏目漱石（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "月亮与六便士",
+  "author": "毛姆（英）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️⭐️",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.7,
+  "channel": "iBooks",
+  "note": "讲述天才画家为了追逐纯粹的艺术理想（月亮），不惜抛弃现实生活（六便士）的偏执故事。",
+  "cover": "covers/c4c1fd9dd74.svg"
+ },
+ {
+  "title": "朱槠基答记者问",
+  "author": "朱镕基（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "洗澡",
+  "author": "杨绛（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "爱因斯坦传",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "爱因斯坦传 （上册）----亚伯拉 派斯 著",
+  "author": "亚伯拉罕·派斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "爱因斯坦传 （下册）----亚伯拉 派斯 著",
+  "author": "亚伯拉罕·派斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "现代中国的形成（1600—1949） 李怀印 著",
+  "author": "李怀印（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "目送",
+  "author": "龙应台（中国台湾）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "社会契约论",
+  "author": "让-雅克·卢梭（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "第二十二条军规",
+  "author": "约瑟夫·海勒（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "繁花",
+  "author": "金宇澄（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "经济学原理（插图版）",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "苏东坡传",
+  "author": "林语堂（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "茨威格 - 人类的群星闪耀时",
+  "author": "斯蒂芬·茨威格（奥地利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "草房子",
+  "author": "曹文轩（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "西方哲学史",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "西方哲学史 (2)",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "身体从未忘记",
+  "author": "贝塞尔·范德考克（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "近距离看美国(4册全)",
+  "author": "林达（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "近距离看美国（全集）",
+  "author": "林达（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "错把妻子当帽子",
+  "author": "奥利弗·萨克斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实",
+   "非虚构"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "长日将尽",
+  "author": "石黑一雄（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "高毅：法兰西风格大革命的政治文化（模糊）",
+  "author": "高毅（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "鳗鱼的旅行",
+  "author": "帕特里克•斯文松（瑞典）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️⭐️",
+  "types": [
+   "科普",
+   "自然散文"
+  ],
+  "douban": 8.7,
+  "channel": "iBooks",
+  "note": "将科学考察与个人回忆交织，在探索神秘鳗鱼的同时，反思人类对生命起源的追寻。",
+  "cover": "covers/cd9e00f8021.svg"
+ },
+ {
+  "title": "25-慈禧全传之一·慈禧前传.高阳.文字版",
+  "author": "高阳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "25-慈禧全传之三·清宫外史·上.高阳.文字版",
+  "author": "高阳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "25-慈禧全传之三·清宫外史·下.高阳.文字版",
+  "author": "高阳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "25-慈禧全传之二·玉座珠帘·上.高阳.文字版",
+  "author": "高阳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "25-慈禧全传之二·玉座珠帘·下.高阳.文字版",
+  "author": "高阳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "25-慈禧全传之五·胭脂井.高阳.文字版",
+  "author": "高阳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "25-慈禧全传之六·瀛台落日.高阳.文字版",
+  "author": "高阳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "25-慈禧全传之四·母子君臣.高阳.文字版",
+  "author": "高阳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "<b>长夜难明</b>",
+  "author": "紫金陈（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "一间只属于自己的房间 (弗吉尼亚·伍尔夫（Virginia Woolf），周颖琪译)",
+  "author": "弗吉尼亚·伍尔夫（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "一间只属于自己的房间（李银河推荐的女性主义奠基作品，影响世界的百部经典）(果麦经典) (弗吉尼亚·伍尔夫)",
+  "author": "弗吉尼亚·伍尔夫（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "东野圭吾全集（套装98册）",
+  "author": "东野圭吾（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "中国历史通俗演义",
+  "author": "蔡东藩（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "了不起的盖茨比",
+  "author": "弗·司各特·菲茨杰拉德（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "医生的精进",
+  "author": "阿图·葛文德（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "医生的精进：从仁心仁术到追求卓越-阿图葛文德",
+  "author": "阿图·葛文德（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "哭泣的骆驼",
+  "author": "三毛（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
   "title": "埃隆·马斯克传",
@@ -95,68 +3741,69 @@
   "cover": "covers/c65f00c589e.svg"
  },
  {
-  "title": "失控的照护",
-  "author": "叶真中显（日）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️",
-  "types": [
-   "推理小说",
-   "社会文学"
-  ],
-  "douban": 8,
-  "channel": "微信读书",
-  "note": "以极其写实的笔触，直面高龄化社会中“长照杀人”的悲剧，发问当爱与责任被现实消磨殆尽时，普通人如何被逼向深渊",
-  "cover": "covers/c2325439bf5.svg"
- },
- {
-  "title": "富爸爸，穷爸爸",
-  "author": "罗伯特·T·清崎 / 莎伦·L·莱希特（美）",
-  "status": "已读",
+  "title": "夏洛特的网（双语）",
+  "author": "E.B.怀特（美）",
+  "status": "已下载",
   "rating": "",
   "types": [
-   "理财"
+   "文学小说"
   ],
-  "douban": 8.3,
-  "channel": "Kindle",
-  "note": "《富爸爸，穷爸爸》是一个真实的故事，作者罗伯特・清崎的亲生父亲和朋友的父亲对金钱的看法截然不同，这使他对认识金钱产生了兴趣，最终他接受了朋友的父亲的建议，也就是书中所说的。“富爸爸”的观念，即不要做金钱的奴隶，要让金钱为我们工作，并由此成为一名极富传奇色彩的成功的投资家。",
-  "cover": "covers/c85da9ff475.svg"
- },
- {
-  "title": "小狗钱钱2",
-  "author": "[德] 博多·舍费尔",
-  "status": "已读",
-  "rating": "",
-  "types": [],
-  "douban": null,
-  "channel": "Kindle",
-  "note": "《小狗钱钱》续作，延续吉娅与钱钱的故事，聚焦优秀品格的发掘与培养——从理财进阶到做人，是第一部的品格篇。",
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
   "cover": ""
  },
  {
-  "title": "少年来了",
-  "author": "韩江（韩）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️⭐️",
+  "title": "大秦三部曲（台灣大學人氣教授呂世浩力作，《羅輯思維》創始人羅振宇鼎力推薦，風靡兩岸三地學子和商界精英，全球熱門中文慕課結集出版）",
+  "author": "吕世浩（中国台湾）",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "历史小说"
+   "历史"
   ],
-  "douban": 9.2,
-  "channel": "Kindle",
-  "note": "以光州事件为背景，用如诗般凄美的笔触，为历史暴行中逝去的灵魂与幸存者的创伤招魂。",
-  "cover": "covers/c66b9d6a38a.svg"
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "崇祯：勤政的亡国君",
-  "author": "陈梧桐（中）",
-  "status": "已读",
-  "rating": "⭐️⭐️",
+  "title": "富兰克林传",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "历史文学"
+   "传记"
   ],
-  "douban": null,
-  "channel": "iBooks",
-  "note": "剥开“天子”的政治外壳，展现一个勤勉却猜忌、平庸且生不逢时的悲剧统治者如何加速王朝覆灭。",
-  "cover": "covers/cdf4f8ca4c6.svg"
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "富兰克林传-（美）沃尔特·艾萨克森著",
+  "author": "沃尔特·艾萨克森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "少年Pi的奇幻漂流",
+  "author": "扬·马特尔（加拿大）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
   "title": "巨流河",
@@ -173,17 +3820,5041 @@
   "cover": "covers/c783000b421.svg"
  },
  {
-  "title": "平凡的世界",
-  "author": "路遥",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️⭐️",
+  "title": "希腊神话故事",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
   "types": [
    "文学小说"
   ],
-  "douban": 9.1,
-  "channel": "纸质书",
-  "note": "以陕北黄土高原为背景，全景式地展现了中国当代城乡社会生活，并刻画了孙少安、孙少平兄弟在重重苦难中坚韧奋斗、追求尊严的心灵史。",
-  "cover": "covers/c84f83137e7.svg"
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "德伯家的苔丝",
+  "author": "托马斯·哈代（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "心流+发现心流（套装全2册）",
+  "author": "米哈里·契克森米哈赖（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "慈禧全传（六卷八册）",
+  "author": "高阳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "民主的细节",
+  "author": "刘瑜（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "沙丘六部曲",
+  "author": "弗兰克·赫伯特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "清明上河图密码1-5",
+  "author": "冶文彪（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "禅与摩托车维修艺术",
+  "author": "罗伯特·M·波西格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "红与黑",
+  "author": "司汤达（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "细说宋朝 虞云国",
+  "author": "虞云国（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "给一个未出生孩子的信",
+  "author": "奥莉娅娜·法拉奇（意）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "罗尔斯著作集（含正义论）",
+  "author": "约翰·罗尔斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "美丽新世界",
+  "author": "阿道司·赫胥黎（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "耻",
+  "author": "J.M. 库切（南非）",
+  "status": "想读",
+  "rating": "",
+  "types": [
+   "文学小说",
+   "诺贝尔文学奖"
+  ],
+  "douban": 8.6,
+  "channel": "Kindle",
+  "note": "围绕一桩旧案，细腻刻画了女性在复杂的人际网和内心世界中，关于欲望、羞耻感与自我救赎的深度博弈。",
+  "cover": "covers/c23f3b3aa88.svg"
+ },
+ {
+  "title": "英雄志（至22卷完）",
+  "author": "孙晓（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え (曰 岸见一郎，日 古贺史健 著；渠海霞 译)",
+  "author": "岸见一郎、古贺史健（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "覆汉 (榴弹怕水)",
+  "author": "榴弹怕水（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "远大前程",
+  "author": "查尔斯·狄更斯（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "送你一颗子弹",
+  "author": "刘瑜（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "野哭：弘光列传 (李洁非明史书系)",
+  "author": "李洁非（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "阿狸·梦之城堡",
+  "author": "徐瀚（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "2666 - Luo Bei Tuo Bo La Ni Ao",
+  "author": "罗贝托·波拉尼奥（智利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "<b>特别的猫</b>",
+  "author": "多丽丝·莱辛（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "七十年代",
+  "author": "北岛（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "代价论：一个新的社会学视角 郑也夫著",
+  "author": "郑也夫（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "再造文明的尝试：胡适传（1891-1929） 11669658 北京市：中华书局 2006 罗志田著 Pg326",
+  "author": "罗志田（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "史景迁作品全12册",
+  "author": "史景迁（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "呼啸山庄",
+  "author": "艾米莉·勃朗特（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "大唐双龙传",
+  "author": "黄易（中国香港）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "大秦帝国（精排全集）",
+  "author": "孙皓晖（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "尘埃落定",
+  "author": "阿来（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "岁月的泡沫",
+  "author": "鲍里斯·维昂（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "德川家康",
+  "author": "山冈庄八（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "心是孤独的猎手",
+  "author": "卡森·麦卡勒斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "恶童日记三部曲",
+  "author": "雅歌塔·克里斯多夫（瑞士）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我在通用汽车的岁月：斯隆自传 (美艾尔弗雷德·P.斯隆 美艾尔弗雷德·P.斯隆)",
+  "author": "阿尔弗雷德·P·斯隆（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我的一生",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "托马斯·潘恩 - 常识",
+  "author": "托马斯·潘恩（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "拆下肋骨当火把：顾准全传",
+  "author": "高建国（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "搏击俱乐部",
+  "author": "恰克·帕拉尼克（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "梅厄夫人自传",
+  "author": "果尔达·梅厄（以色列）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "毛姆读书心得（一校）",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "海明威诞辰120周年图文珍藏版文集（全18卷）",
+  "author": "欧内斯特·海明威（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "海都物语（上）",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "海都物语（下）",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "特朗斯特罗姆诗选",
+  "author": "托马斯·特朗斯特罗姆（瑞典）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "瓦尔登湖",
+  "author": "亨利·戴维·梭罗（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "甘地自传（果麦经典）",
+  "author": "圣雄甘地（印度）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "甲骨文",
+  "author": "彼得·海斯勒（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "盗墓笔记",
+  "author": "南派三叔（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "禁色的蝴蝶：张国荣的艺术形象",
+  "author": "洛枫（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "秦制两千年：封建帝王的权力规则 谌旭彬",
+  "author": "谌旭彬（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "空谷幽兰：寻访现代中国隐士 6寸",
+  "author": "比尔·波特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "简·爱",
+  "author": "夏洛蒂·勃朗特（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "紫川（全集）",
+  "author": "老猪（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "纳兰词全编笺注",
+  "author": "纳兰性德（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "纳尼亚传奇（完美全集）",
+  "author": "C.S.路易斯（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "老舍经典全集（全10册）",
+  "author": "老舍（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "苏菲的世界",
+  "author": "乔斯坦·贾德（挪威）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "蛤蟆先生去看心理医生",
+  "author": "罗伯特·戴博德（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "追寻现代中国",
+  "author": "史景迁（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "陈寅恪的最后20年",
+  "author": "陆键东（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "陈彦经典代表作品合集",
+  "author": "陈彦（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "隋唐帝国形成史论",
+  "author": "谷川道雄（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "雍正皇帝",
+  "author": "二月河（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "龙床——明六帝纪（修订版） (李洁非明史书系)",
+  "author": "李洁非（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "龙床——明六帝纪（修订版）李洁非明史书系",
+  "author": "李洁非（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "一个或所有问题",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "三口棺材",
+  "author": "约翰·迪克森·卡尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "中国一九五七-尤凤伟",
+  "author": "尤凤伟（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "中国大历史",
+  "author": "黄仁宇（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "人生中不可不想的事",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "今何在-悟空传十年之完美纪念版",
+  "author": "今何在（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "你当像鸟飞往你的山",
+  "author": "塔拉·韦斯特弗（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记",
+   "非虚构"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "兄弟（上下合集）",
+  "author": "余华（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "先秦诸子百家争鸣",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "医生的修炼：在不完美中探索行医的真相",
+  "author": "阿图·葛文德（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "占星术杀人魔法（全新修订版）",
+  "author": "岛田庄司（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "名人传",
+  "author": "罗曼·罗兰（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "哲学问题",
+  "author": "伯特兰·罗素（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "城门开",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "大国的兴衰",
+  "author": "保罗·肯尼迪（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "大外交",
+  "author": "亨利·基辛格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史",
+   "政治史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "大江大海一九四九（插图版）",
+  "author": "龙应台（中国台湾）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "妖刀记 1-50卷豪华版 (默默猴)",
+  "author": "默默猴（中国台湾）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "家园 - 隋乱【完整】",
+  "author": "酒徒（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "寂静的春天",
+  "author": "蕾切尔·卡逊（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "居里夫人传",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "带壳的牡蛎是大人的心脏 (拟泥nini 王曼霓) (拟泥nini)",
+  "author": "王曼霓（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "庆余年（全集精校）",
+  "author": "猫腻（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "康熙大帝（四册全集）",
+  "author": "二月河（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "当我们谈论爱情时我们在谈论什么",
+  "author": "雷蒙德·卡佛（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "影响力",
+  "author": "罗伯特·西奥迪尼（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "恶女的告白",
+  "author": "叶真中显（日）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️⭐️",
+  "types": [
+   "推理小说",
+   "社会文学"
+  ],
+  "douban": 8.4,
+  "channel": "微信读书",
+  "note": "通过一个被冠以“毒妇”之名的女性视角，层层剥开社会偏见与恶意，展现了在男权凝视下，女性为了生存与复仇而进行的残酷博弈",
+  "cover": "covers/c3b72b84048.svg"
+ },
+ {
+  "title": "悟空传",
+  "author": "今何在（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我们：又名《反乌托邦与自由》",
+  "author": "扎米亚京（俄）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说",
+   "反乌托邦"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我的奋斗",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "把时间当作朋友",
+  "author": "李笑来（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "把时间当作朋友-李笑来",
+  "author": "李笑来（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "把时间当作朋友（实体书版） - 李笑来",
+  "author": "李笑来（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "新教伦理与资本主义精神",
+  "author": "马克斯·韦伯（德）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "易中天品三国",
+  "author": "易中天（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "星星是冰冷的玩具（全2册）（当代俄罗斯科幻之神卢基扬年科巅峰作品，中文版首次面世！被读者誉为俄罗斯版《三体》！踏入星际时代，“黑暗森",
+  "author": "谢尔盖·卢基扬年科（俄）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "李开元-秦谜：秦始皇的秘密",
+  "author": "李开元（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "李笑来：把时间当作朋友",
+  "author": "李笑来（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "毛泽东、斯大林与朝鲜战争",
+  "author": "沈志华（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "沧海（全集）",
+  "author": "凤歌（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "海边的卡夫卡",
+  "author": "村上春树（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "灵山",
+  "author": "高行健（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "生命是什么",
+  "author": "埃尔温·薛定谔（奥地利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "看得见的手——美国企业的管理革命 (小阿尔弗雷德·钱德勒)",
+  "author": "小阿尔弗雷德·钱德勒（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "知识大融通",
+  "author": "爱德华·O·威尔逊（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "秦吏 (七月新番)",
+  "author": "七月新番（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "秦始皇的秘密",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "秦謎：秦始皇的秘密 (李開元)",
+  "author": "李开元（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "秦谜秦始皇的秘密",
+  "author": "李开元（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "荆棘鸟",
+  "author": "考琳·麦卡洛（澳大利亚）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "解读基金——我的投资观与实践（修订版）（经典畅销12年，基金投资必读书） (季凯帆)",
+  "author": "季凯帆（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "财富的帝国 （美）约翰·S·戈登着 中信出版社 2007年06月第1版",
+  "author": "约翰·S·戈登（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "阿狸·永远站",
+  "author": "徐瀚（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "非暴力沟通 = Nonviolent Communication A Language of Life Life-Changing Tools for Healthy Relationships ( etc.)",
+  "author": "马歇尔·卢森堡（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "鳄鱼街-布鲁诺·舒尔茨",
+  "author": "布鲁诺·舒尔茨（波兰）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "黑洞——弘光纪事 (李洁非明史书系)",
+  "author": "李洁非（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "18-《君臣》《宰相故事》.王瑞来.中华书局2010",
+  "author": "王瑞来（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "1Q84（全集）",
+  "author": "村上春树（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "24-《创新者的窘境》",
+  "author": "克莱顿·克里斯坦森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "万物解释者",
+  "author": "兰道尔·门罗（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "丝绸之路：一部全新的世界史",
+  "author": "彼得·弗兰科潘（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "云图",
+  "author": "大卫·米切尔（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "亭樘小武",
+  "author": "史杰鹏（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "亭长小武.史杰鹏.扫描版",
+  "author": "史杰鹏（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "信任论 郑也夫",
+  "author": "郑也夫（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "创业维艰",
+  "author": "本·霍洛维茨（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "创新者",
+  "author": "沃尔特·艾萨克森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "创新者的窘境",
+  "author": "克莱顿·克里斯坦森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "原则 - 瑞·达利欧",
+  "author": "瑞·达利欧（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "史杰鹏--亭长小武",
+  "author": "史杰鹏（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "周易江湖",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "囚徒的困境-冯·诺伊曼、博弈论和原子弹之谜",
+  "author": "威廉·庞德斯通（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "囚徒的困境-冯·诺伊曼、博弈论和原子弹之谜 (2)",
+  "author": "威廉·庞德斯通（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "城邦暴力团",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "失控",
+  "author": "凯文·凯利（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "好妈妈胜过好老师",
+  "author": "尹建莉（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "如何阅读一本书",
+  "author": "莫提默·J·艾德勒 / 查尔斯·范多伦（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "如何阅读一本书 (莫提默．J．艾德勒 (Mortimer J. Adler) etc.)",
+  "author": "莫提默·J·艾德勒 / 查尔斯·范多伦（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "季羡林《牛棚雜憶》",
+  "author": "季羡林（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "富爸爸，穷爸爸",
+  "author": "罗伯特·T·清崎 / 莎伦·L·莱希特（美）",
+  "status": "已读",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8.3,
+  "channel": "Kindle",
+  "note": "《富爸爸，穷爸爸》是一个真实的故事，作者罗伯特・清崎的亲生父亲和朋友的父亲对金钱的看法截然不同，这使他对认识金钱产生了兴趣，最终他接受了朋友的父亲的建议，也就是书中所说的。“富爸爸”的观念，即不要做金钱的奴隶，要让金钱为我们工作，并由此成为一名极富传奇色彩的成功的投资家。",
+  "cover": "covers/c85da9ff475.svg"
+ },
+ {
+  "title": "小说课：折磨读者秘密",
+  "author": "许荣哲（中国台湾）",
+  "status": "已下载",
+  "rating": "",
+  "types": [],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "尘缘",
+  "author": "烟雨江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "左宗棠全传 (秦翰才)",
+  "author": "秦翰才（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "巴黎圣母院",
+  "author": "维克多·雨果（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "希区柯克悬念故事全集(全八册& 41;",
+  "author": "阿尔弗雷德·希区柯克（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "常识 - 梁文道",
+  "author": "梁文道（中国香港）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "抗日战争的细节",
+  "author": "魏风华（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "抗日战争的细节 - 魏风华",
+  "author": "魏风华（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "拿破仑传",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "春秋大义 熊逸 陕西师范大学出版社",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "春秋大义2隐公元年",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "春秋大义2隐公元年.熊逸",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "昨日之前的世界",
+  "author": "贾雷德·戴蒙德（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学",
+   "历史研究"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "最寒冷的冬天：美国人眼中的朝鲜战争",
+  "author": "戴维·哈伯斯塔姆（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "梁启超传",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "梦的解析",
+  "author": "西格蒙德·弗洛伊德（奥地利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "棉花帝国",
+  "author": "斯文·贝克特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "流血的仕途：李斯与秦帝国",
+  "author": "曹昇（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "激流三部曲（家·春·秋）",
+  "author": "巴金（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "熊逸-春秋大义1中国传统语境下的政治与学术",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "熊逸-春秋大义2隐公元年",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "熊逸：周易江湖-插图版",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "疯狂的投资（跨越大西洋电缆的商业传奇)约翰.S.戈登",
+  "author": "约翰·S·戈登（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "穷查理宝典",
+  "author": "查理·芒格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "精益创业：新创企业的成长思维",
+  "author": "埃里克·莱斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "罗德斯岛系列（全集）",
+  "author": "水野良（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "茶人三部曲",
+  "author": "王旭烽（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "许荣哲小说课：折磨读者的碟密",
+  "author": "许荣哲（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "进化!进化达尔文背后的战争",
+  "author": "史钧（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "进化！进化？ 达尔文背后的战争",
+  "author": "史钧（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "进化！进化？达尔文背后的战争史钧",
+  "author": "史钧（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "隋唐三部曲（共20卷）：隋乱+开国功贼+盛唐烟云 (酒徒 酒徒)",
+  "author": "酒徒（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "隋唐三部曲（共20卷）：隋乱+开国功贼+盛唐烟云 (酒徒)",
+  "author": "酒徒（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "78-《上帝与黄金：英国、美国与现代世界的形成》",
+  "author": "沃尔特·拉塞尔·米德（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "一个人旅行2",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "世界为何存在",
+  "author": "吉姆·霍尔特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "世界为何存在 英文版Why Does the World Exist -- An Existential Detective Story by Jim Holt",
+  "author": "吉姆·霍尔特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "乾隆皇帝（六册全集）",
+  "author": "二月河（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "夜谭十记：让子弹飞",
+  "author": "马识途（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "失去的三百年",
+  "author": "郭建龙（中）",
+  "status": "缓缓",
+  "rating": "",
+  "types": [
+   "历史评论"
+  ],
+  "douban": 8.2,
+  "channel": "微信读书",
+  "note": "深入剖析东亚（特别是中国）在明清时期如何从领先走向滞后，探讨社会结构与思维惯性如何错失大航海时代的机遇。",
+  "cover": "covers/cf5f31e2efb.svg"
+ },
+ {
+  "title": "孤独的性：手淫文化史 （美）托马斯·拉科尔着",
+  "author": "托马斯·拉科尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "寻秦记",
+  "author": "黄易（中国香港）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "少有人走的路",
+  "author": "M·斯科特·派克（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "张居正",
+  "author": "熊召政（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "当我谈跑步时",
+  "author": "村上春树（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "必然",
+  "author": "凯文·凯利（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "思辨的禅趣：《坛经》视野下的世界秩序",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "昆仑（全集）",
+  "author": "凤歌（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "朱元璋传",
+  "author": "吴晗（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "橘子不是唯一的水果",
+  "author": "珍妮特·温特森（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "正义的成本=熊秉元漫步法律",
+  "author": "熊秉元（中国台湾）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "毛泽东传（图文）",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "漫长的告别",
+  "author": "雷蒙德·钱德勒（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "熊逸-逍遥游",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "熊逸-道可道",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "科技想要什么（美）凯文·凯利",
+  "author": "凯文·凯利（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "米开郎琪罗与教皇的天花板",
+  "author": "罗斯·金（加拿大）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "耶路撒冷三千",
+  "author": "西蒙·蒙蒂菲奥里（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "耶路撒冷三千年 - 西蒙•蒙蒂菲奥里",
+  "author": "西蒙·蒙蒂菲奥里（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "自控力：斯坦福大学最受欢迎心理学课程 (凯利．麦格尼格尔 (Kelly McGonigal Ph.D))",
+  "author": "凯利·麦格尼格尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "自控力：斯坦福大学最受欢迎心理学课程 (凯利．麦格尼格尔 (Kelly McGonigal Ph.D.))",
+  "author": "凯利·麦格尼格尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "菊与刀-（美）本尼迪克特",
+  "author": "露丝·本尼迪克特（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "薛兆丰经济学讲义 (薛兆丰)",
+  "author": "薛兆丰（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "诛仙",
+  "author": "萧鼎（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "趣味生活简史 比尔·布莱森",
+  "author": "比尔·布莱森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "趣味生活简史布莱森",
+  "author": "比尔·布莱森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "边荒传说（实体书版全集）",
+  "author": "黄易（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "达芬奇密码",
+  "author": "丹·布朗（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "逍遥游-熊逸",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "道可道-熊逸",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "道可道：《老子》的要义与诘难 - 熊逸",
+  "author": "熊逸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "那些古怪又让人忧心的问题",
+  "author": "兰道尔·门罗（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "重来：更为简单有效的商业思维",
+  "author": "贾森·弗里德（美）、大卫·海涅迈尔·汉森（丹麦）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "金融的逻辑",
+  "author": "陈志武（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "长安的荔枝",
+  "author": "马伯庸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史小说",
+   "文学小说"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "高效能人士的七个习惯（30周年纪念版）",
+  "author": "史蒂芬·柯维（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "丈量世界",
+  "author": "丹尼尔·凯曼（德）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "且听风吟",
+  "author": "村上春树（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "东霓",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "从历史看组织",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "保守主义的智慧之灯（刘军宁）",
+  "author": "刘军宁（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "十一种孤独",
+  "author": "理查德·耶茨（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "史上第一混乱",
+  "author": "张小花（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "天下体系：世界制度哲学导论.赵汀阳.扫描版",
+  "author": "赵汀阳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "天才在左疯子在右",
+  "author": "高铭（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "宝贝，宝贝",
+  "author": "周国平（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "少年维特之烦恼",
+  "author": "约翰·沃尔夫冈·冯·歌德（德）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "思考，快与慢 (丹尼尔．卡尼曼 (Daniel Kahneman))",
+  "author": "丹尼尔·卡尼曼（以色列）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "怪诞行为学（升级版& 41;",
+  "author": "丹·艾瑞里（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我不是教你诈(1-5合集& 41;",
+  "author": "刘墉（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "搜神记",
+  "author": "树下野狐（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "显微镜下的大明",
+  "author": "马伯庸（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "最美唐诗",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史文学"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "清教徒的礼物",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "秦制两千年",
+  "author": "谌旭彬（中）",
+  "status": "已读",
+  "rating": "⭐️⭐️",
+  "types": [
+   "历史评论",
+   "政治史"
+  ],
+  "douban": 8.1,
+  "channel": "iBooks",
+  "note": "穿透帝制的表象，揭示中国历代统治逻辑中“外儒内法”与中央集权的深层演变。",
+  "cover": "covers/cc167c6991b.svg"
+ },
+ {
+  "title": "素食者",
+  "author": "韩江（韩）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️⭐️",
+  "types": [
+   "文学小说",
+   "诺贝尔文学奖"
+  ],
+  "douban": 8.1,
+  "channel": "Kindle",
+  "note": "通过一个女人拒绝食肉的极端行为，揭示了个人意志在父权社会与集体暴力压迫下的彻底异化",
+  "cover": "covers/c2abef2bb41.svg"
+ },
+ {
+  "title": "索尼的故事",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "罗斯福传",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "英文版清教徒的礼物",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "覆雨翻云",
+  "author": "黄易（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "超爆魔鬼经济学",
+  "author": "史蒂芬·列维特、史蒂芬·都伯纳（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "邮差总按两遍铃 . 美 詹姆斯 M 凯恩著.扫描版",
+  "author": "詹姆斯·M·凯恩（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "长恨歌",
+  "author": "王安忆（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "青铜时代的战争",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "魔鬼经济学",
+  "author": "史蒂芬·列维特、史蒂芬·都伯纳（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "魔鬼经济学3-Think Like a Freak",
+  "author": "史蒂芬·列维特、史蒂芬·都伯纳（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "魔鬼经济学合集全4册",
+  "author": "史蒂芬·列维特、史蒂芬·都伯纳（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "魔鬼经济学合集（共4册）",
+  "author": "史蒂芬·列维特、史蒂芬·都伯纳（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "魔鬼经济学：揭示隐藏在表象之下的真实世界",
+  "author": "史蒂芬·列维特、史蒂芬·都伯纳（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "三杯茶",
+  "author": "格雷格·摩顿森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "上帝的跳蚤",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "不去会死！",
+  "author": "石田裕辅（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "人性的弱点",
+  "author": "戴尔·卡耐基（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "优势谈判",
+  "author": "罗杰·道森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "佛祖在一号线",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "关键对话 美科里·帕特森约瑟夫·格雷尼 美罗恩·麦克",
+  "author": "科里·帕特森 / 约瑟夫·格雷尼 / 罗恩·麦克米伦（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "关键对话：如何高效能沟通",
+  "author": "科里·帕特森 / 约瑟夫·格雷尼 / 罗恩·麦克米伦（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "冷酷的钢铁",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "北洋裂变：军阀与五四",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "厚黑学",
+  "author": "李宗吾（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "原来这才是春秋（全2册）",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "后宫甄嬛传（全集）",
+  "author": "流潋紫（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "吴敬琏传-吴晓波",
+  "author": "吴晓波（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "地球星人 (村田沙耶香 村田沙耶香)",
+  "author": "村田沙耶香（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "失控的照护",
+  "author": "叶真中显（日）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️",
+  "types": [
+   "推理小说",
+   "社会文学"
+  ],
+  "douban": 8,
+  "channel": "微信读书",
+  "note": "以极其写实的笔触，直面高龄化社会中“长照杀人”的悲剧，发问当爱与责任被现实消磨殆尽时，普通人如何被逼向深渊",
+  "cover": "covers/c2325439bf5.svg"
+ },
+ {
+  "title": "奇点临近",
+  "author": "雷·库兹韦尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "奇点临近 库兹韦尔 原版pdf",
+  "author": "雷·库兹韦尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "奇点临近 库兹韦尔手工6寸pdf",
+  "author": "雷·库兹韦尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "智能时代",
+  "author": "吴军（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "最初的爱情，最后的仪式",
+  "author": "伊恩·麦克尤恩（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "最后的炼金术士 牛顿传",
+  "author": "迈克尔·怀特（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "活着就为改变世界 史蒂夫·乔布斯传",
+  "author": "杰弗里·扬（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "白【韩江再度入围国际布克文学奖惊艳之作，一本无法归类、有关一切白色事物的诗小说】 (韩江)",
+  "author": "韩江（韩）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "经济学通识 薛兆丰着",
+  "author": "薛兆丰（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "自卑与超越 (阿尔弗雷德.阿德勒 adele)",
+  "author": "阿尔弗雷德·阿德勒（奥地利）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "超预测",
+  "author": "菲利普·泰洛克、丹·加德纳（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "金字塔原理",
+  "author": "芭芭拉·明托（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "1988：我想和这个世界谈谈",
+  "author": "韩寒（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "BLUE",
+  "author": "叶真中显（日）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️",
+  "types": [
+   "推理小说",
+   "社会文学"
+  ],
+  "douban": 7.9,
+  "channel": "微信读书",
+  "note": "通过一桩跨越二十年的失踪案，细腻描绘了女性在破碎家庭与扭曲情感中，如深海般沉静却压抑的孤独与挣扎。",
+  "cover": "covers/c1b3e1ee9bf.svg"
+ },
+ {
+  "title": "为什么推助",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "乌合之众",
+  "author": "古斯塔夫·勒庞（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "人间便利店（荣获芥川奖，引起日本社会集体沉思的现实主义话题之作！换个角度，也许能看到不一样的世界！） (村田沙耶香)",
+  "author": "村田沙耶香（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "伯恩的身份",
+  "author": "罗伯特·勒德姆（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "佣兵天下",
+  "author": "说不得大师（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "光电帝国--电力发展史上的巨人和他们的战争",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "刘军宁-投资哲学",
+  "author": "刘军宁（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "助推.(美).卡斯·桑斯坦.扫描版",
+  "author": "卡斯·桑斯坦（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "匆匆那年",
+  "author": "九夜茴（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "如果这是宋史",
+  "author": "高天流云（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "岩中花树：十六至十八世纪的中国文人",
+  "author": "柯律格（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我们台湾这些年（完整插图版）",
+  "author": "廖信忠（中国台湾）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "撒切尔夫人回忆录—唐宁街岁月",
+  "author": "玛格丽特·撒切尔（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "新东方GRE词汇精选",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "晚清三杰：曾国藩、左宗棠、彭玉麟全传（套装全3册） (中国历代人物演义书系) (徐哲身)",
+  "author": "徐哲身（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "有限与无限的游戏：一个哲学家眼中的竞技世界（美）詹姆斯·卡斯",
+  "author": "詹姆斯·卡斯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "权利与进步",
+  "author": "戴伦·艾塞默鲁 / 赛门·强森",
+  "status": "已读",
+  "rating": "⭐️⭐️",
+  "types": [
+   "社会科学",
+   "经济史"
+  ],
+  "douban": 7.9,
+  "channel": "Kindle",
+  "note": "深入剖析技术进步如何被权力掌控，警示我们要确保科技增益于大众而非少数精英。",
+  "cover": "covers/c8f7af1f291.svg"
+ },
+ {
+  "title": "杜月笙传",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "王小波十年祭.李银河.扫描版",
+  "author": "李银河（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "生命式（日本销量突破百万册《人间便利店》作者短篇小说集,川奖得主村田沙耶香18年作家生涯精选代表作；全球30多个国家翻译出版,关于未来的怪",
+  "author": "村田沙耶香（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "第一次一个人旅行",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "背包十年",
+  "author": "小鹏（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "蔡康永的说话之道（完整版）",
+  "author": "蔡康永（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "重新定义公司-谷歌是如何运营的",
+  "author": "埃里克·施密特、乔纳森·罗森伯格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "重新定义公司.埃里克•施密特,乔纳森•罗森伯格",
+  "author": "埃里克·施密特、乔纳森·罗森伯格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "重新定义公司—谷歌是如何运营的 (奇点系列)",
+  "author": "埃里克·施密特、乔纳森·罗森伯格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "重新定义公司—谷歌是如何运营的 (奇点系列) (2)",
+  "author": "埃里克·施密特、乔纳森·罗森伯格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "重新定义公司：谷歌是如何运营的",
+  "author": "埃里克·施密特、乔纳森·罗森伯格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "青春咖啡馆",
+  "author": "帕特里克·莫迪亚诺（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "黑死馆杀人事件",
+  "author": "小栗虫太郎（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "27-《少有人看见的美》苏缨",
+  "author": "苏缨（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "不负如来不负卿",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "世界因你不同",
+  "author": "李开复（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "传记"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "他的国",
+  "author": "韩寒（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "千年一叹",
+  "author": "余秋雨（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "少有人看见的美",
+  "author": "苏缨（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "少有人看见的美 苏缨",
+  "author": "苏缨（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "屋顶长的一棵树",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "忽必烈的挑战 蒙古帝国与世界历史的大转向",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "推理的迷宫",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "推理的迷宫 (2)",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "文化苦旅",
+  "author": "余秋雨（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "杜拉拉升职记（全集）",
+  "author": "李可（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "橙",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "毫无意义的工作 （美）大卫·格雷伯著；吕宇珺译",
+  "author": "大卫·格雷伯（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "爱情心理学 (罗伯特·斯滕伯格)",
+  "author": "罗伯特·斯滕伯格（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "独唱团（第一辑）",
+  "author": "韩寒（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "精英的傲慢",
+  "author": "迈克尔·桑德尔（美）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️",
+  "types": [
+   "政治哲学"
+  ],
+  "douban": 7.8,
+  "channel": "Kindle",
+  "note": "抨击“优绩主义”的陷阱，反思为何现代精英的优越感正在撕裂社会的公正与团结",
+  "cover": "covers/c95d84d0a8a.svg"
+ },
+ {
+  "title": "谜踪之国（全集）",
+  "author": "天下霸唱（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "错把路灯当月亮沙耶香的大脑奇旅 (村田沙耶香)",
+  "author": "村田沙耶香（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "镜（合集）",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "青囊尸衣",
+  "author": "鲁班尺（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "鲸鱼女孩·池塘男孩",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "乔布斯的魔力演讲",
+  "author": "卡迈恩·加洛（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "人间便利店",
+  "author": "村田沙耶香（日）",
+  "status": "想读",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.7,
+  "channel": "Kindle",
+  "note": "一个无法融入社会的“异类”女性，通过精准模仿便利店的运行规则，才勉强获得作为“正常人”的入场券。",
+  "cover": "covers/cfc4f914e0a.svg"
+ },
+ {
+  "title": "国运1909",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "国运1909清帝国的改革突围",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "尽管去做--无压力的工作艺术",
+  "author": "戴维·艾伦（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "干法",
+  "author": "稻盛和夫（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "平行世界1 原始人—尼安德特 罗伯特-J-索耶",
+  "author": "罗伯特·J·索耶（加拿大）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "幸福了吗",
+  "author": "白岩松（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "我看电商 黄若13325195",
+  "author": "黄若（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "操纵心理学 争夺人生的主导权 ((美) 哈丽雅特·B.布瑞克 著 李璐 译)",
+  "author": "哈丽雅特·B·布瑞克（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "杀戮与文化",
+  "author": "维克多·戴维斯·汉森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "沙僧日记",
+  "author": "林长治（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "洛丽塔",
+  "author": "弗拉基米尔·纳博科夫（俄）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "牛奶可乐经济学",
+  "author": "罗伯特·弗兰克（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "生命式",
+  "author": "村田沙耶香（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说",
+   "短篇小说集"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "联盟：互联网时代的人才变革（美）里德·霍夫曼",
+  "author": "里德·霍夫曼（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "茅山后裔（全集）",
+  "author": "大力金刚掌（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "蛮荒记",
+  "author": "树下野狐（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "让·波德里亚 - 美国（一校）",
+  "author": "让·波德里亚（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "走吧，张小砚",
+  "author": "张小砚（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "重说中国近代史",
+  "author": "张鸣（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "24-《逆转：弱者如何找到优势,反败为胜》",
+  "author": "马尔科姆·格拉德威尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "不做告别",
+  "author": "韩江（韩）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️",
+  "types": [
+   "历史小说"
+  ],
+  "douban": 7.6,
+  "channel": "Kindle",
+  "note": "以极度细腻、诗意且冷冽的笔触，挖掘被风雪掩埋的济州岛屠杀真相，完成一场关于记忆与创伤的招魂。",
+  "cover": "covers/cf852c271de.svg"
+ },
+ {
+  "title": "与机器人共舞",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "从0到1 开启商业与未来的秘密（图文精编版）",
+  "author": "彼得·蒂尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "仙楚",
+  "author": "树下野狐（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "何以笙箫默",
+  "author": "顾漫（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "再看电商 双色 黄若13585294",
+  "author": "黄若（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "别告诉我你懂PPT 12594041",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "十年徒步中国",
+  "author": "雷殿生（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "帝国的迷津：近代变局中的知识人性与爱欲 赵柏田",
+  "author": "赵柏田（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "毛泽东最后七年风雨路",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "清醒思考的艺术",
+  "author": "罗尔夫·多贝里（瑞士）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "游戏改变世界",
+  "author": "简·麦戈尼格尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "第一时间看透对方：FBI教你破解身体语言（插图版）",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "简·麦格尼格尔-游戏改变世界",
+  "author": "简·麦格尼格尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "精要主义",
+  "author": "格雷格·麦吉沃恩（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "缔造苹果神话",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "群山之巅",
+  "author": "迟子建（中）",
+  "status": "已读",
+  "rating": "⭐️⭐️⭐️",
+  "types": [
+   "文学小说",
+   "现实魔幻"
+  ],
+  "douban": 7.6,
+  "channel": "Kindle",
+  "note": "通过龙盏镇多个家族的命运更迭，全景式地描绘了社会转型期东北山地卑微人物在罪恶与救赎中的生存百态。",
+  "cover": "covers/cb908d95d14.svg"
+ },
+ {
+  "title": "草样年华（全集）",
+  "author": "孙睿（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "藏地密码（全集）",
+  "author": "何马（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "逆转.加.马尔科姆.格拉德威尔 扫描版",
+  "author": "马尔科姆·格拉德威尔（加拿大）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "逆转：弱者如何找到优势，反败为胜",
+  "author": "马尔科姆·格拉德威尔（加拿大）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "风语",
+  "author": "麦家（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.6,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "再穷也要去旅行",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "别为小事抓狂",
+  "author": "理查德·卡尔森（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "北大批判-薛涌",
+  "author": "薛涌（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "华音流韶（全集）",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
   "title": "幸存者回忆录",
@@ -213,126 +8884,290 @@
   "cover": "covers/c6f21296469.svg"
  },
  {
-  "title": "恶女的告白",
-  "author": "叶真中显（日）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️⭐️",
-  "types": [
-   "推理小说",
-   "社会文学"
-  ],
-  "douban": 8.4,
-  "channel": "微信读书",
-  "note": "通过一个被冠以“毒妇”之名的女性视角，层层剥开社会偏见与恶意，展现了在男权凝视下，女性为了生存与复仇而进行的残酷博弈",
-  "cover": "covers/c3b72b84048.svg"
- },
- {
-  "title": "我与地坛",
-  "author": "史铁生（中）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️⭐️",
-  "types": [
-   "散文集"
-  ],
-  "douban": 9.3,
-  "channel": "iBooks",
-  "note": "在荒芜古园的静谧中，一位残疾作家与地坛、生命以及母亲达成了最深沉的和解。",
-  "cover": "covers/c5f02f0fe75.svg"
- },
- {
-  "title": "早安怪物",
-  "author": "[加] 凯瑟琳·吉尔迪纳",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️",
-  "types": [
-   "心理纪实",
-   "非虚构"
-  ],
-  "douban": 9,
-  "channel": "Kindle",
-  "note": "过讲述五位遭受过严重心理创伤的咨询者如何通过极强的生命韧性完成自我救赎，深刻揭示了人性在黑暗深渊中反抗与复原的力量。",
-  "cover": "covers/ca1de352c2e.svg"
- },
- {
-  "title": "月亮与六便士",
-  "author": "毛姆（英）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️⭐️",
-  "types": [
-   "文学小说"
-  ],
-  "douban": 8.7,
-  "channel": "iBooks",
-  "note": "讲述天才画家为了追逐纯粹的艺术理想（月亮），不惜抛弃现实生活（六便士）的偏执故事。",
-  "cover": "covers/c4c1fd9dd74.svg"
- },
- {
-  "title": "权利与进步",
-  "author": "戴伦·艾塞默鲁 / 赛门·强森",
-  "status": "已读",
-  "rating": "⭐️⭐️",
-  "types": [
-   "社会科学",
-   "经济史"
-  ],
-  "douban": 7.9,
-  "channel": "Kindle",
-  "note": "深入剖析技术进步如何被权力掌控，警示我们要确保科技增益于大众而非少数精英。",
-  "cover": "covers/c8f7af1f291.svg"
- },
- {
-  "title": "活着",
-  "author": "余华（中）",
-  "status": "已读",
+  "title": "废都(海外未删节版) (贾平凹)",
+  "author": "贾平凹（中）",
+  "status": "已下载",
   "rating": "",
   "types": [
    "文学小说"
   ],
-  "douban": 9.4,
+  "douban": 7.5,
   "channel": "",
-  "note": "余华代表作，福贵一生的苦难与坚韧，中国当代文学经典。",
-  "cover": "covers/ca17f0b7e73.svg"
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "秋园",
-  "author": "杨本芬（中）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️",
+  "title": "心理控制术",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "纪实小说"
+   "心理纪实"
   ],
-  "douban": 9,
-  "channel": "iBooks",
-  "note": "80岁奶奶写就的生命之歌，记录了在那段动荡岁月里，一个普通中国母亲如何像水草一样坚韧地活下去。",
-  "cover": "covers/c2b4afbaceb.svg"
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "秦制两千年",
-  "author": "谌旭彬（中）",
-  "status": "已读",
-  "rating": "⭐️⭐️",
+  "title": "我所理解的生活-韩寒",
+  "author": "韩寒（中）",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "历史评论",
-   "政治史"
+   "散文集"
   ],
-  "douban": 8.1,
-  "channel": "iBooks",
-  "note": "穿透帝制的表象，揭示中国历代统治逻辑中“外儒内法”与中央集权的深层演变。",
-  "cover": "covers/cc167c6991b.svg"
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "秦吏",
-  "author": "七月新番（中）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️⭐️",
+  "title": "曾有一个人，爱我如生命",
+  "author": "舒仪（中）",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "网文",
-   "穿越历史"
+   "文学小说"
   ],
-  "douban": 8.9,
-  "channel": "iBooks",
-  "note": "以一个小官吏的视角穿越回秦朝，极其硬核地还原了秦律治理下的社会运作细节。",
-  "cover": "covers/c92145d2a17.svg"
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "最好的女子",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "槽边往事",
+  "author": "和菜头（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "物演通论 王东岳著 陕西人民出版社 2009.12",
+  "author": "王东岳（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "番茄工作法电子书中文版",
+  "author": "弗朗西斯科·西里洛（意）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "郭德纲话说北京",
+  "author": "郭德纲（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "黄河鬼棺（全集）",
+  "author": "李达（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.5,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "<b>低智商犯罪</b>",
+  "author": "紫金陈（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "<b>错把路灯当月亮</b>",
+  "author": "村田沙耶香（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "当代随笔"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "优雅一生的装扮课",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "停止讨好成为一个真正的好人 (【美】迈克·贝克特尔)",
+  "author": "迈克·贝克特尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "失去的二十年-日本经济长期停滞的真正原因",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "失落的秘符",
+  "author": "丹·布朗（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "尘曲完整版",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "怒江之战（全集）",
+  "author": "南派三叔（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "拆掉思维里的墙",
+  "author": "古典（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "暮光之城（全集）",
+  "author": "斯蒂芬妮·梅尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "李可乐抗拆记-李承鹏",
+  "author": "李承鹏（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "神墓",
+  "author": "辰东（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
   "title": "窄门",
@@ -350,140 +9185,654 @@
   "cover": "covers/cf3ec9a28ec.svg"
  },
  {
-  "title": "精英的傲慢",
-  "author": "迈克尔·桑德尔（美）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️",
+  "title": "读大学，究竟读什么.覃彪喜.扫描版",
+  "author": "覃彪喜（中）",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "政治哲学"
+   "理财"
   ],
-  "douban": 7.8,
-  "channel": "Kindle",
-  "note": "抨击“优绩主义”的陷阱，反思为何现代精英的优越感正在撕裂社会的公正与团结",
-  "cover": "covers/c95d84d0a8a.svg"
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "素食者",
-  "author": "韩江（韩）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️⭐️",
+  "title": "遇见未知的自己",
+  "author": "张德芬（中）",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "文学小说",
-   "诺贝尔文学奖"
+   "理财"
   ],
-  "douban": 8.1,
-  "channel": "Kindle",
-  "note": "通过一个女人拒绝食肉的极端行为，揭示了个人意志在父权社会与集体暴力压迫下的彻底异化",
-  "cover": "covers/c2abef2bb41.svg"
+  "douban": 7.4,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "绝叫",
-  "author": "叶真中显（日）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️⭐️",
+  "title": "2015年罗辑思维微信合集",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "推理小说",
-   "完美犯罪"
+   "社会科学"
   ],
-  "douban": 8.9,
-  "channel": "iBooks",
-  "note": "以“孤独死”为引，残忍而写实地复盘一个普通女性如何在社会压力下走向堕落与新生",
-  "cover": "covers/cb148b165cc.svg"
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "群山之巅",
-  "author": "迟子建（中）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️",
+  "title": "<p>\n<b>坏小孩</b>   \n</p>",
+  "author": "紫金陈（中）",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "文学小说",
-   "现实魔幻"
+   "推理小说"
   ],
-  "douban": 7.6,
-  "channel": "Kindle",
-  "note": "通过龙盏镇多个家族的命运更迭，全景式地描绘了社会转型期东北山地卑微人物在罪恶与救赎中的生存百态。",
-  "cover": "covers/cb908d95d14.svg"
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "遥远的向日葵地",
-  "author": "李娟（中）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️",
+  "title": "人生若只如初见",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "当代随笔"
+   "历史文学"
   ],
-  "douban": 9.1,
-  "channel": "微信读书",
-  "note": "在新疆阿勒泰的荒原上，记录母亲与家人在严酷自然中勤劳、坚韧且充满生机的生存状态",
-  "cover": "covers/c0b34a7634a.svg"
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "额尔古纳河右岸",
-  "author": "迟子建（中）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️⭐️",
+  "title": "全球风口：积木式创新与中国新机遇",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "文学小说",
-   "民族叙事"
+   "商业"
   ],
-  "douban": 8.9,
-  "channel": "iBooks",
-  "note": "鄂温克族最后一位酋长女人的自述，是一曲关于北方游牧文明与原始自然共生的挽歌。",
-  "cover": "covers/ce692ab3c62.svg"
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "鳗鱼的旅行",
-  "author": "帕特里克•斯文松（瑞典）",
-  "status": "已读",
-  "rating": "⭐️⭐️⭐️⭐️",
+  "title": "吸血鬼日记（1-4全集）",
+  "author": "L.J.史密斯（美）",
+  "status": "已下载",
+  "rating": "",
   "types": [
-   "科普",
-   "自然散文"
+   "幻想小说"
   ],
-  "douban": 8.7,
-  "channel": "iBooks",
-  "note": "将科学考察与个人回忆交织，在探索神秘鳗鱼的同时，反思人类对生命起源的追寻。",
-  "cover": "covers/cd9e00f8021.svg"
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "人间便利店",
-  "author": "村田沙耶香（日）",
-  "status": "想读",
+  "title": "岁前要上的33堂理财课",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "巴黎没有摩天轮",
+  "author": "",
+  "status": "已下载",
   "rating": "",
   "types": [
    "文学小说"
   ],
-  "douban": 7.7,
-  "channel": "Kindle",
-  "note": "一个无法融入社会的“异类”女性，通过精准模仿便利店的运行规则，才勉强获得作为“正常人”的入场券。",
-  "cover": "covers/cfc4f914e0a.svg"
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "耻",
-  "author": "J.M. 库切（南非）",
-  "status": "想读",
+  "title": "斗罗大陆",
+  "author": "唐家三少（中）",
+  "status": "已下载",
   "rating": "",
   "types": [
-   "文学小说",
-   "诺贝尔文学奖"
+   "幻想小说"
   ],
-  "douban": 8.6,
-  "channel": "Kindle",
-  "note": "围绕一桩旧案，细腻刻画了女性在复杂的人际网和内心世界中，关于欲望、羞耻感与自我救赎的深度博弈。",
-  "cover": "covers/c23f3b3aa88.svg"
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
-  "title": "失去的三百年",
-  "author": "郭建龙（中）",
-  "status": "缓缓",
+  "title": "罗辑思维：迷茫时代的明白人 - 罗振宇",
+  "author": "罗振宇（中）",
+  "status": "已下载",
   "rating": "",
   "types": [
-   "历史评论"
+   "社会科学"
   ],
-  "douban": 8.2,
-  "channel": "微信读书",
-  "note": "深入剖析东亚（特别是中国）在明清时期如何从领先走向滞后，探讨社会结构与思维惯性如何错失大航海时代的机遇。",
-  "cover": "covers/cf5f31e2efb.svg"
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "羅輯思維（全5冊）",
+  "author": "罗振宇（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "致我们终将逝去的青春 - 辛夷坞（内嵌字体版）",
+  "author": "辛夷坞（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "西南联大的爱情往事-岚枫",
+  "author": "岚枫（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "这就是OKR",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "<p>\n<b>无证之罪</b>   \n</p>",
+  "author": "紫金陈（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "不抱怨的世界",
+  "author": "威尔·鲍温（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "不抱怨的世界2",
+  "author": "威尔·鲍温（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "天机（全集）",
+  "author": "蔡骏（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "如丧--我们终于老得可以谈谈未来1.01",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "小狗也要叫-张鸣",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "每天懂一点色彩心理学",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "洗脑术：怎样有逻辑地说服他人-高德",
+  "author": "高德（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "知鱼之乐",
+  "author": "庄子（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "秘密",
+  "author": "朗达·拜恩（澳大利亚）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "而励",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "<b>高智商犯罪</b>",
+  "author": "紫金陈（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "人间",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 7.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "男人这东西",
+  "author": "渡边淳一（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 7.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "色眼识人",
+  "author": "乐嘉（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 7.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "货币战争",
+  "author": "宋鸿兵（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "货币战争2：金权天下",
+  "author": "宋鸿兵（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "货币战争3：金融高边疆",
+  "author": "宋鸿兵（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 7.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "魔鬼搭讪学",
+  "author": "阮琦（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 7.1,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "历史是个什么玩意儿（全集）",
+  "author": "袁腾飞（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": 7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "青春-韩寒",
+  "author": "韩寒（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": 7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "停止内耗：过一个不累的人生 (若杉)",
+  "author": "若杉（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 6.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "婚姻心理学 婚姻是最好的修行 = Marriage Psychology (美 霍妮 著 徐淑贞 编译)",
+  "author": "卡伦·霍妮（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 6.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "硅谷禁书",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 6.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "细节",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 6.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "跟乐嘉学性格色彩-乐嘉",
+  "author": "乐嘉（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 6.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "迎男而上-泡男人才是正经事",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": 6.9,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "不上火的生活",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 6.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "别跟我说你懂日本",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "社会科学"
+  ],
+  "douban": 6.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "方舟子《批评中医》",
+  "author": "方舟子（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": 6.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "气场",
+  "author": "皮克·菲尔（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": 6.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "郎咸平说：我们的日子为什么这么难",
+  "author": "郎咸平（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 6.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "郎咸平说：新帝国主义在中国2",
+  "author": "郎咸平（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": 6.8,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "<b>长夜难明 : 双星</b>",
+  "author": "紫金陈（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 6.3,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "不生病的智慧",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": 6.2,
+  "channel": "",
+  "note": "",
+  "cover": ""
  },
  {
   "title": "趋势2030",
@@ -497,5 +9846,565 @@
   "channel": "Kindle",
   "note": "沃顿商学院教授通过人口、财富和技术的多维分析，预言未来十年全球权力的剧烈洗牌与社会逻辑的彻底重构。",
   "cover": "covers/ccc5947d43e.svg"
+ },
+ {
+  "title": "<b>追踪师</b>",
+  "author": "紫金陈（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "推理小说"
+  ],
+  "douban": 5.7,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "0039\\_副本",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《2005·夜·TAXI》",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《2009年完坑计划及道歉贴》(1)",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《Happy New Year & 2010年的第一部电影》",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《〈2012〉的12345》",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《〈此间的少年〉影评 & 温故2010》",
+  "author": "江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《九州幻想》05年10月刊首语【生女当如萧如瑟】",
+  "author": "江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《九州幻想》05年11月刊首语【絮语】",
+  "author": "江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《九州幻想》05年12月刊首语【The Terminal】",
+  "author": "江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《你陪了我多少年——2013年中国作家富豪榜获奖感言》",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《挖坑、出版、点击率——2002年，网络文学大家唱的命运》",
+  "author": "江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《温故2005》",
+  "author": "江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《温故2008》",
+  "author": "江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《温故2009·最好的时候》",
+  "author": "江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "《过去的2008年总结》",
+  "author": "江南（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "一套书读懂大清史【套装含《雍正皇帝》《曾国藩传》《左宗棠》《李鸿章》等，共13册；全景再现大清王朝的残酷与绚烂，真实还原最后一个封建王",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "七堂极简物理课",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "决战葛底斯堡",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "加缪全集",
+  "author": "阿尔贝·加缪（法）",
+  "status": "已下载",
+  "rating": "",
+  "types": [],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "培根随笔",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "散文集"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "大清帝国最后十年：清末新政始末",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "历史"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "存在主义心理学的邀请",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "心理纪实"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "富爸爸穷爸爸",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "小狗钱钱2",
+  "author": "[德] 博多·舍费尔",
+  "status": "已读",
+  "rating": "",
+  "types": [],
+  "douban": null,
+  "channel": "Kindle",
+  "note": "《小狗钱钱》续作，延续吉娅与钱钱的故事，聚焦优秀品格的发掘与培养——从理财进阶到做人，是第一部的品格篇。",
+  "cover": ""
+ },
+ {
+  "title": "崇祯：勤政的亡国君",
+  "author": "陈梧桐（中）",
+  "status": "已读",
+  "rating": "⭐️⭐️",
+  "types": [
+   "历史文学"
+  ],
+  "douban": null,
+  "channel": "iBooks",
+  "note": "剥开“天子”的政治外壳，展现一个勤勉却猜忌、平庸且生不逢时的悲剧统治者如何加速王朝覆灭。",
+  "cover": "covers/cdf4f8ca4c6.svg"
+ },
+ {
+  "title": "果壳中的宇宙",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "科普"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "正常人",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "死于威尼斯",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "男人一本书",
+  "author": "爱德华·奥古斯丁 / 菲利普·封·凯森贝格 / 克利斯蒂安·扎什克（德）",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "神经漫游者三部曲",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "纳瓦尔宝典",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "罗伯特·麦基虚构艺术三部曲",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "非虚构散文"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "美丽的世界，你在哪里",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "聊天记录",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "艺术的故事",
+  "author": "恩斯特·贡布里希（英）",
+  "status": "已下载",
+  "rating": "",
+  "types": [],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "苏世民：我的经验与教训",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "商业"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "被讨厌的勇气",
+  "author": "岸见一郎 / 古贺史健（日）",
+  "status": "已下载",
+  "rating": "",
+  "types": [],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "认知觉醒",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "理财"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "金翼：一个中国家族的史记",
+  "author": "林耀华（中）",
+  "status": "已下载",
+  "rating": "",
+  "types": [],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "铁皮鼓",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "非暴力沟通",
+  "author": "马歇尔·卢森堡（美）",
+  "status": "已下载",
+  "rating": "",
+  "types": [],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "魔山",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "文学小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
+ },
+ {
+  "title": "黑暗的左手三部曲",
+  "author": "",
+  "status": "已下载",
+  "rating": "",
+  "types": [
+   "幻想小说"
+  ],
+  "douban": null,
+  "channel": "",
+  "note": "",
+  "cover": ""
  }
 ]
