@@ -1,9 +1,82 @@
 <!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>《悉达多》：成为你自己 · 香芋的读书笔记</title>
-<link rel="stylesheet" href="../assets/style.css"></head>
-<body><div class="wrap">
-<header class="site"><div class="brand">香芋的读书笔记<small>XIANGYU'S READING NOTES</small></div><nav><a href="../index.html" class="">首页</a><a href="../notes/index.html" class="on">读书笔记</a><a href="../library/index.html" class="">图书馆</a><a href="../quotes/index.html" class="">每日摘抄</a><a href="../news/index.html" class="">AI资讯</a><a href="../lit/index.html" class="">文学简报</a><a href="../build/index.html" class="">建站手记</a><a href="../about/index.html" class="">关于我</a></nav></header>
+<style>
+:root{--bg:#F7F7F5;--side:#EFEFEA;--card:#FFFFFF;--ink:#1A1A1A;--mut:#6B7280;--faint:#9CA3AF;--line:#E7E5DF;--blue:#2563EB;--body:#333333;--shadow:0 1px 3px rgba(0,0,0,.08)}
+[data-theme="dark"]{--bg:#171717;--side:#1E1E1E;--card:#262626;--ink:#EDEDED;--mut:#A3A3A3;--faint:#737373;--line:#333333;--body:#D6D6D6;--shadow:0 1px 3px rgba(0,0,0,.4)}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;font-size:14px}
+a{color:inherit;text-decoration:none;cursor:pointer}
+aside{position:fixed;left:0;top:0;bottom:0;width:260px;background:var(--side);padding:18px 14px;overflow-y:auto;display:flex;flex-direction:column;z-index:20}
+body.immersive aside{display:none} body.immersive main{margin-left:0}
+.logo{display:flex;align-items:center;gap:9px;font-size:17px;font-weight:700;padding:2px 8px 16px}
+.logo .lic{width:30px;height:30px;border-radius:9px;background:linear-gradient(135deg,#FFB59E,#FF8FA3);display:flex;align-items:center;justify-content:center;font-size:16px;color:#fff}
+.logo small{display:block;font-size:10px;font-weight:400;color:var(--faint);letter-spacing:1px}
+.sitem{display:flex;justify-content:space-between;align-items:center;padding:8px 12px;border-radius:10px;font-size:14px;color:var(--ink);margin-bottom:2px}
+.sitem:hover{background:rgba(0,0,0,.04)} [data-theme="dark"] .sitem:hover{background:rgba(255,255,255,.06)}
+.sitem.on{background:var(--card);box-shadow:var(--shadow);font-weight:600}
+.sgroup{font-size:12px;color:var(--faint);margin:18px 12px 6px;letter-spacing:1px}
+.sidefoot{margin-top:auto;padding:14px 12px 2px;font-size:12px;color:var(--faint);line-height:1.9;border-top:1px solid var(--line)}
+main{margin-left:260px;padding:18px 34px 70px}
+.inner{max-width:860px;margin:0 auto}
+.topbar{display:flex;align-items:center;gap:14px;margin-bottom:20px}
+.search{flex:1;max-width:560px;display:flex;align-items:center;gap:8px;background:var(--card);border-radius:999px;padding:10px 18px;box-shadow:var(--shadow)}
+.search input{flex:1;border:none;outline:none;background:transparent;font-size:14px;color:var(--ink)}
+.iconbtns{margin-left:auto;display:flex;gap:8px}
+.iconbtn{width:38px;height:38px;border-radius:50%;background:var(--card);box-shadow:var(--shadow);display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:16px;border:none;color:var(--ink)}
+.wrap{width:auto;max-width:none;margin:0;padding:0}
+h1{font-size:30px;font-weight:600;margin:4px 0 8px;line-height:1.35}
+.subtitle{color:var(--mut);font-size:14px;margin-bottom:22px}
+h2{font-size:19px;font-weight:600;margin:28px 0 10px;line-height:1.5}
+h2.sec{font-size:19px}
+h3{font-size:16px;font-weight:600;margin:20px 0 8px}
+p{line-height:1.85;margin:10px 0;color:var(--body);font-size:14.5px}
+.content a{color:var(--blue)}
+strong{font-weight:600}
+img{max-width:100%}
+.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:20px 22px;margin-bottom:16px}
+.card p{margin:6px 0}
+.tag{display:inline-block;background:var(--side);color:var(--mut);border:1px solid var(--line);font-size:12px;border-radius:999px;padding:3px 11px;margin:0 6px 6px 0}
+.meta{color:var(--faint);font-size:12.5px;margin-top:8px}
+.infobox{background:var(--side);border-radius:12px;padding:16px 18px;margin:16px 0;font-size:13.5px;line-height:1.9;color:var(--body)}
+.toc{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin:16px 0;font-size:13.5px;line-height:2}
+.toc a{color:var(--mut)}
+blockquote,.vquote{font-size:16.5px;line-height:1.9;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:22px;margin:16px 0;color:var(--body)}
+.viewer{margin:0 auto}
+.viewer img{width:100%;border-radius:14px;display:block}
+.vcap{color:var(--mut);font-size:13px;text-align:center;margin:10px 0}
+.vnav{display:flex;justify-content:space-between;gap:10px;margin:18px 0}
+.vnav a{background:var(--card);border:1px solid var(--line);padding:9px 18px;border-radius:999px;box-shadow:var(--shadow);color:var(--ink)}
+.video-card{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:14px;margin:16px 0}
+.video-card .q img{width:100%;border-radius:10px;display:block}
+.about-top{display:flex;gap:20px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:24px;margin-bottom:16px;flex-wrap:wrap}
+.about-top .avatar{width:84px;height:84px;border-radius:50%;overflow:hidden;flex:0 0 auto}
+.about-top .avatar img{width:100%;height:100%;object-fit:cover}
+table{border-collapse:collapse;width:100%;margin:14px 0}
+td,th{border:1px solid var(--line);padding:8px 10px;font-size:13.5px;text-align:left}
+ul,ol{margin:10px 0 10px 22px;line-height:1.85;color:var(--body)}
+.savebtn{background:#1A1A1A;color:#fff;border-radius:999px;padding:10px 22px;border:none;cursor:pointer;font-size:14px}
+.foot{margin-top:44px;font-size:12px;color:var(--faint);text-align:center;line-height:2}
+@media(max-width:900px){aside{display:none}main{margin-left:0;padding:14px 16px 60px}}
+
+</style></head>
+<body>
+<aside>
+  <div class="logo"><span class="lic">书</span><span>香芋图书馆<small>XIANGYU'S LIBRARY</small></span></div>
+  <a class="sitem" href="../index.html"><span>🏠 图书馆</span></a><a class="sitem on" href="../notes/index.html"><span>📖 读书笔记</span></a><a class="sitem" href="../quotes/index.html"><span>✒️ 每日摘抄</span></a><a class="sitem" href="../news/index.html"><span>🤖 AI 资讯</span></a><a class="sitem" href="../lit/index.html"><span>📰 文学简报</span></a><a class="sitem" href="../build/index.html"><span>🛠 建站手记</span></a><a class="sitem" href="../about/index.html"><span>👤 关于我</span></a>
+  <div class="sgroup">主题</div>
+  <a class="sitem" id="themeBtn"><span>🌗 浅色 / 深色</span></a>
+  <div class="sidefoot">香芋的读书笔记<br>以书会友，以文会友<br><a href="https://github.com/xiangyu999/xiangyu999.github.io" target="_blank" rel="noopener">GitHub</a></div>
+</aside>
+<main><div class="inner">
+  <div class="topbar"><div style="flex:1"></div>
+    <div class="iconbtns">
+      <button class="iconbtn" id="immBtn" title="沉浸模式">⛶</button>
+      <button class="iconbtn" id="themeBtn2" title="切换主题">☾</button>
+    </div>
+  </div>
+  <div class="content"><div class="wrap">
+
 <h1>《悉达多》：成为你自己</h1><div class="subtitle">——6天读完的笔记（2026.10.18—10.23，黑塞，姜乙译本）</div><div class="infobox"><b>书名</b>《悉达多》　<b>作者</b>赫尔曼·黑塞（姜乙译）　<b>阅读周期</b>2026.10.18—10.23（6 天）　<b>体裁</b>读书笔记</div><div class="toc"><div>本篇目录</div><a href="#s1">一、一个德国人，为什么写印度？</a><a href="#s2">二、佛陀站在面前，也教不会</a><a href="#s3">三、老师能给的，永远只是入口</a><a href="#s4">四、二十年，他活成了自己嘲笑的样子</a><a href="#s5">五、在河边：唵</a><a href="#s6">六、船夫与儿子：重返与补课</a><a href="#s7">七、收官：看山还是山</a></div>
 <h2 class="sec" id="s1">一、一个德国人，为什么写印度？</h2>
 <p>一开始我也有这个疑问。黑塞，德国人，写婆罗门、写佛陀、写&quot;唵&quot;，他懂印度吗？</p>
@@ -40,5 +113,18 @@
 <p>悉达多他与自己和解了，也与世界和解了，他爱这个世界，爱所有的瞬间的自己。</p>
 <p>&quot;蓝就是蓝，河水就是河水&quot;，&quot;正因为它是石头而爱它&quot;</p>
 <p>&quot;求&quot;彼岸的人到不了真正的彼岸，&quot;世间的每一瞬间皆为圆满&quot;。<strong>终点不是&quot;到达&quot;，是&quot;发现你一直在&quot;。</strong></p>
-<footer class="site">香芋的读书笔记 · 读完的书，在这里安家</footer>
-</div></body></html>
+
+</div></div>
+  <div class="foot">香芋的读书笔记 · 以书会友，以文会友</div>
+</div></main>
+
+<script>
+document.getElementById('immBtn').onclick=function(){ document.body.classList.toggle('immersive'); };
+function toggleTheme(){ var d=document.documentElement; var dark=d.getAttribute('data-theme')==='dark'; d.setAttribute('data-theme', dark?'light':'dark'); try{ localStorage.setItem('libtheme', dark?'light':'dark'); }catch(e){} }
+document.getElementById('themeBtn').onclick=toggleTheme;
+var tb2=document.getElementById('themeBtn2'); if(tb2) tb2.onclick=toggleTheme;
+try{ if(localStorage.getItem('libtheme')==='dark') document.documentElement.setAttribute('data-theme','dark'); }catch(e){}
+var q=document.getElementById('q');
+if(q){ q.oninput=function(){ var v=q.value.trim().toLowerCase(); document.querySelectorAll('.content .card, .content .video-card').forEach(function(c){ c.style.display=(!v||c.textContent.toLowerCase().indexOf(v)>=0)?'':'none'; }); }; }
+</script>
+</body></html>
