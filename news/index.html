@@ -1,131 +1,45 @@
 <!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AI 每日资讯 · 香芋的读书笔记</title>
-<style>
-:root{--bg:#F7F7F5;--side:#EFEFEA;--card:#FFFFFF;--ink:#1A1A1A;--mut:#6B7280;--faint:#9CA3AF;--line:#E7E5DF;--blue:#2563EB;--body:#333333;--shadow:0 1px 3px rgba(0,0,0,.08)}
-[data-theme="dark"]{--bg:#171717;--side:#1E1E1E;--card:#262626;--ink:#EDEDED;--mut:#A3A3A3;--faint:#737373;--line:#333333;--body:#D6D6D6;--shadow:0 1px 3px rgba(0,0,0,.4)}
-*{margin:0;padding:0;box-sizing:border-box}
-body{background:var(--bg);color:var(--ink);font-family:-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;font-size:14px}
-a{color:inherit;text-decoration:none;cursor:pointer}
-aside{position:fixed;left:0;top:0;bottom:0;width:260px;background:var(--side);padding:18px 14px;overflow-y:auto;display:flex;flex-direction:column;z-index:20}
-body.immersive aside{display:none} body.immersive main{margin-left:0}
-.logo{display:flex;align-items:center;gap:9px;font-size:17px;font-weight:700;padding:2px 8px 16px}
-.logo .lic{width:30px;height:30px;border-radius:9px;background:linear-gradient(135deg,#FFB59E,#FF8FA3);display:flex;align-items:center;justify-content:center;font-size:16px;color:#fff}
-.logo small{display:block;font-size:10px;font-weight:400;color:var(--faint);letter-spacing:1px}
-.sitem{display:flex;justify-content:space-between;align-items:center;padding:8px 12px;border-radius:10px;font-size:14px;color:var(--ink);margin-bottom:2px}
-.sitem:hover{background:rgba(0,0,0,.04)} [data-theme="dark"] .sitem:hover{background:rgba(255,255,255,.06)}
-.sitem.on{background:var(--card);box-shadow:var(--shadow);font-weight:600}
-.sgroup{font-size:12px;color:var(--faint);margin:18px 12px 6px;letter-spacing:1px}
-.sidefoot{margin-top:auto;padding:14px 12px 2px;font-size:12px;color:var(--faint);line-height:1.9;border-top:1px solid var(--line)}
-main{margin-left:260px;padding:18px 34px 70px}
-.inner{max-width:860px;margin:0 auto}
-.topbar{display:flex;align-items:center;gap:14px;margin-bottom:20px}
-.search{flex:1;max-width:560px;display:flex;align-items:center;gap:8px;background:var(--card);border-radius:999px;padding:10px 18px;box-shadow:var(--shadow)}
-.search input{flex:1;border:none;outline:none;background:transparent;font-size:14px;color:var(--ink)}
-.iconbtns{margin-left:auto;display:flex;gap:8px}
-.iconbtn{width:38px;height:38px;border-radius:50%;background:var(--card);box-shadow:var(--shadow);display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:16px;border:none;color:var(--ink)}
-.wrap{width:auto;max-width:none;margin:0;padding:0}
-h1{font-size:30px;font-weight:600;margin:4px 0 8px;line-height:1.35}
-.subtitle{color:var(--mut);font-size:14px;margin-bottom:22px}
-h2{font-size:19px;font-weight:600;margin:28px 0 10px;line-height:1.5}
-h2.sec{font-size:19px}
-h3{font-size:16px;font-weight:600;margin:20px 0 8px}
-p{line-height:1.85;margin:10px 0;color:var(--body);font-size:14.5px}
-.content a{color:var(--blue)}
-strong{font-weight:600}
-img{max-width:100%}
-.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:20px 22px;margin-bottom:16px}
-.card p{margin:6px 0}
-.tag{display:inline-block;background:var(--side);color:var(--mut);border:1px solid var(--line);font-size:12px;border-radius:999px;padding:3px 11px;margin:0 6px 6px 0}
-.meta{color:var(--faint);font-size:12.5px;margin-top:8px}
-.infobox{background:var(--side);border-radius:12px;padding:16px 18px;margin:16px 0;font-size:13.5px;line-height:1.9;color:var(--body)}
-.toc{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin:16px 0;font-size:13.5px;line-height:2}
-.toc a{color:var(--mut)}
-blockquote,.vquote{font-size:16.5px;line-height:1.9;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:22px;margin:16px 0;color:var(--body)}
-.viewer{margin:0 auto}
-.viewer img{width:100%;border-radius:14px;display:block}
-.vcap{color:var(--mut);font-size:13px;text-align:center;margin:10px 0}
-.vnav{display:flex;justify-content:space-between;gap:10px;margin:18px 0}
-.vnav a{background:var(--card);border:1px solid var(--line);padding:9px 18px;border-radius:999px;box-shadow:var(--shadow);color:var(--ink)}
-.video-card{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:14px;margin:16px 0}
-.video-card .q img{width:100%;border-radius:10px;display:block}
-.about-top{display:flex;gap:20px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:24px;margin-bottom:16px;flex-wrap:wrap}
-.about-top .avatar{width:84px;height:84px;border-radius:50%;overflow:hidden;flex:0 0 auto}
-.about-top .avatar img{width:100%;height:100%;object-fit:cover}
-table{border-collapse:collapse;width:100%;margin:14px 0}
-td,th{border:1px solid var(--line);padding:8px 10px;font-size:13.5px;text-align:left}
-ul,ol{margin:10px 0 10px 22px;line-height:1.85;color:var(--body)}
-.savebtn{background:#1A1A1A;color:#fff;border-radius:999px;padding:10px 22px;border:none;cursor:pointer;font-size:14px}
-.foot{margin-top:44px;font-size:12px;color:var(--faint);text-align:center;line-height:2}
-@media(max-width:900px){aside{display:none}main{margin-left:0;padding:14px 16px 60px}}
-
-</style></head>
-<body>
-<aside>
-  <div class="logo"><span class="lic">书</span><span>香芋图书馆<small>XIANGYU'S LIBRARY</small></span></div>
-  <a class="sitem" href="../index.html"><span>🏠 图书馆</span></a><a class="sitem" href="../notes/index.html"><span>📖 读书笔记</span></a><a class="sitem" href="../quotes/index.html"><span>✒️ 每日摘抄</span></a><a class="sitem on" href="../news/index.html"><span>🤖 AI 资讯</span></a><a class="sitem" href="../lit/index.html"><span>📰 文学简报</span></a><a class="sitem" href="../build/index.html"><span>🛠 建站手记</span></a><a class="sitem" href="../about/index.html"><span>👤 关于我</span></a>
-  <div class="sgroup">主题</div>
-  <a class="sitem" id="themeBtn"><span>🌗 浅色 / 深色</span></a>
-  <div class="sidefoot">香芋的读书笔记<br>以书会友，以文会友<br><a href="https://github.com/xiangyu999/xiangyu999.github.io" target="_blank" rel="noopener">GitHub</a></div>
-</aside>
-<main><div class="inner">
-  <div class="topbar"><div class="search"><span>🔍</span><input id="q" placeholder="搜标题 / 关键词…"></div>
-    <div class="iconbtns">
-      <button class="iconbtn" id="immBtn" title="沉浸模式">⛶</button>
-      <button class="iconbtn" id="themeBtn2" title="切换主题">☾</button>
-    </div>
-  </div>
-  <div class="content"><div class="wrap">
-
-<h1>AI 每日资讯</h1><div class="subtitle">2026-11-24 · 每天 09:00 更新</div>
+<link rel="stylesheet" href="../assets/style.css"></head>
+<body><div class="wrap">
+<header class="site"><div class="brand">香芋的读书笔记<small>XIANGYU'S READING NOTES</small></div><nav><a href="../index.html" class="">首页</a><a href="../notes/index.html" class="">读书笔记</a><a href="../quotes/index.html" class="">每日摘抄</a><a href="../news/index.html" class="on">AI资讯</a><a href="../lit/index.html" class="">文学简报</a><a href="../build/index.html" class="">建站手记</a><a href="../about/index.html" class="">关于我</a></nav></header>
+<h1>AI 每日资讯</h1><div class="subtitle">2026-11-25 · 每天 09:00 更新</div>
 <div class="card"><span class="tag">1</span>
-<h3>英伟达董事会全票恢复黄仁勋 CEO 职务：英伟达董事会 11 月 23 日宣布，投票一致通过恢复黄仁勋的总裁、CEO 及董事职务、立即生效，距他 11 月 12 日辞职仅 11 天；董事会称与黄仁勋多轮会谈并听取美国政府高层意见后，判断其复职不构成国家安全风险，CFO Colette Kress 回归原职，公司同时新设国家安全与出口管制委员会。</h3>
-<p><a href="https://www.cnn.com/2026/11/23/tech/nvidia-reinstates-jensen-huang-ceo?cid=external-feeds_iluminar_meta">来源</a></p></div>
+<h3>DeepSeek 完成约 150 亿美元融资、估值约 860 亿美元：约 1000 亿元人民币一轮新增 31 家投资方，包括腾讯与宁德时代，之后计划科创板 IPO；同期 V4.1 Flash 需求激增，已对聊天记录与输入做限流。</h3>
+<p><a href="https://www.aibriefing.dev/">来源</a></p></div>
 <div class="card"><span class="tag">2</span>
-<h3>Anthropic 披露约 9000 亿美元支出承诺，债市预计给垃圾级评级：《华尔街日报》报道，Anthropic 修正后的招股文件显示未来支出承诺约 8954 亿–9009 亿美元、大多用于算力和数据中心，其中约 4475 亿美元在 2030 年底前到期；多家债券基金经理预计三大评级机构将把其债券评为 BB 级（垃圾级），公司目前市值约 1.18 万亿美元、上季度营收 170 亿美元但仍亏损。</h3>
-<p><a href="https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d">来源</a></p></div>
+<h3>GPT-6.2 Sol 进入 ChatGPT 聊天标签全球推广：面向 Plus、Pro、商业与企业用户开放，图像理解得分 71.7%；GPT-5.6 Sol 与 Terra 将于 12 月 23 日退役，模型换代节奏继续加快。</h3>
+<p><a href="https://www.aibriefing.dev/">来源</a></p></div>
 <div class="card"><span class="tag">3</span>
-<h3>智谱发布 750B 旗舰模型 GLM-5.4，采用循环 Transformer 架构：Z.ai 发布首个基于循环 Transformer 的旗舰模型 GLM-5.4，参数量 7500 亿，把第 27 至 54 层重复运行两次，官方称性能可对标 2 至 3 万亿参数模型；100 万 token 上下文下开销仍可控，非高峰约 200 tokens/s；模型已上线 Z.ai Chat 与编码环境，权重计划经安全测试后发布。</h3>
-<p><a href="https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/">来源</a></p></div>
+<h3>谷歌 DeepMind 用智能体团队加 Lean 4 形式化验证找到新量子算法：Gemini 智能体设计的量子线路经 Lean 4 定理证明器验证，据称量子算术成本最高降低约 290 倍，聚变模拟所需纠错量子比特从 5650 降至 4338。</h3>
+<p><a href="https://www.aibriefing.dev/">来源</a></p></div>
 <div class="card"><span class="tag">4</span>
-<h3>GPT-6.2 Astra 独立完成数学定理的 Lean 形式化证明：OpenAI 的 GPT-6.2 Astra 在无人干预下，为 2006 年的 Smoktunowicz 间隙定理产出可机器验证的 Lean 形式化证明，Vals AI 称这是该定理首个已知的 Lean 证明；由于 Mathlib 缺少原证明的关键基础，模型改用既有研究中的 capacity 指标自创证明路线，94 分钟、花费 21.58 美元完成 1800 行证明，并在 Autoform-Hard 榜上以 49 题领先。</h3>
-<p><a href="https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/">来源</a></p></div>
+<h3>小鹏发布世界模型 WorldGPT：11 月 24 日亮相，输入历史视频与指令即可规划动作并预测环境变化，官方称是首个覆盖水陆空 6 类载具的预测与动作规划世界模型。</h3>
+<p><a href="https://kimkj.com/en/ai-board-en/?mod=document&amp;uid=23015">来源</a></p></div>
 <div class="card"><span class="tag">5</span>
-<h3>无界方舟开源 1450 亿参数端侧模型 Edge0-145B，笔记本断网实测 80+ token/s：无界方舟发布并开源端侧大模型 Edge0-145B，总参数 1450 亿，官方称全球首个千亿参数端侧原生基础模型，最低 12GB 显存加 20GB 内存的 PC 即可运行，预填充 1100+ token/s、解码 80+ token/s；量子位用 RTX Spark 笔记本断网实测 3D 建模、游戏与视频任务，效果接近 GPT-6 Astra。</h3>
-<p><a href="https://www.qbitai.com/2026/11/512195.html">来源</a></p></div>
+<h3>人形机器人量产提速：中汽工程 11 月 24 日中标天津两基地人形机器人量产线交钥匙合同，单基地年产能 5000 台；理想汽车老将团队至简动力完成 1 亿美元 Pre-A 轮，并发布面向商超仓储分拣的轮式人形机器人 iX。</h3>
+<p><a href="https://kimkj.com/en/ai-board-en/?mod=document&amp;uid=23015">来源</a></p></div>
 <div class="card"><span class="tag">6</span>
-<h3>自变量发布具身基础模型 WALL-API-1.0，零样本成功率 55.1%：自变量发布首个具身基础模型 WALL-API-1.0，核心模型 WALL-OSS-1.0 让动作数据从预训练阶段就参与学习，开放式真机评测零样本成功率 55.1%，ManipArena 15 项桌面任务未经微调拿下 1101 分（满分 1500），比多任务微调的 π0.5 高 70.8%；模型已通过 API 向全球研究者与企业开放，方案已进入国内头部物流企业分拣产线。</h3>
-<p><a href="https://www.ifanr.com/1691043?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">来源</a></p></div>
+<h3>字节跳动推出邀请制个人 AI 助手：定位个人智能体；华为云 11 月 24 日开放企业智能体平台 AgentArts，首批公布 30 余家合作伙伴，同步开放办公套件 OfficeAce 与编码工具 CodeArts。</h3>
+<p><a href="https://kimkj.com/en/ai-board-en/?mod=document&amp;uid=23015">来源</a></p></div>
 <div class="card"><span class="tag">7</span>
-<h3>Anthropic 推出 Claude Ship，可自动审查、修复并批准 PR：Anthropic 发布 Claude Ship，让 Claude 审查、修复并批准 pull request，包含已上线的 Code Review 与新进入 beta 的 PR Steward、Claude Approvals 两个智能体；PR Steward 处理失败的 CI 检查、合并冲突与评审反馈，Claude Approvals 在团队策略允许时批准常规改动，现面向 Claude Team 和 Enterprise 客户开放、支持 GitHub 仓库。</h3>
-<p><a href="https://www.reuters.com/business/anthropic-launches-claude-ship-help-developers-ship-code-faster-2026-11-23/">来源</a></p></div>
+<h3>中国电信仅用 8192 块华为昇腾 910C 预训练 2850 亿参数模型：中国电信星辰 AGI 实验室发表论文披露该成果；中国主导 29 项 AI 基础领域国际标准，另有 49 项行业应用标准正在推进。</h3>
+<p><a href="https://kimkj.com/en/ai-board-en/?mod=document&amp;uid=23015">来源</a></p></div>
 <div class="card"><span class="tag">8</span>
-<h3>蚂蚁阿福新版上线实时视频&quot;看健康&quot;，百灵两款医疗大模型开源：蚂蚁阿福 11 月 23 日在医疗健康生态大会发布新版 App，新增实时视频&quot;看健康&quot;功能，可视频看症状、看药品、看报告并联动真人医生把关；同步首次集中发布百灵医疗健康模型家族 LingSante，并开源 560B 推理模型 LingSante-3.1-flash 与 124B 多模态模型 LingSante-3.1-air-VL；同时发布阿福 AI 健康手环与 AI 健康戒指，覆盖心率、睡眠等 16 项指标。</h3>
-<p><a href="https://www.thepaper.cn/newsDetail_forward_34538900">来源</a></p></div>
+<h3>微软把 GPT-6.2 Sol 与 Astra 接入 Copilot，同时力推自研 MAI 模型：Copilot 全球用上新模型之余，微软也在推广自研 MAI 系列，以留住本需与 OpenAI 分成的请求收入。</h3>
+<p><a href="https://www.aibriefing.dev/">来源</a></p></div>
 <div class="card"><span class="tag">9</span>
-<h3>OpenAI 与 Cisco 开源运行时 Shirudo，用 eBPF 在打补丁期间屏蔽漏洞利用：OpenAI 与 Cisco 联合推出开源运行时 Shirudo，在 Linux 打补丁的空窗期用 eBPF 临时阻断漏洞利用，受控测试中 Codex 生成的防护拦截了针对运行中 Elasticsearch 服务的 Java4Shell 攻击且无需重启；项目以 BSD 2-Clause 许可开源，具备在线防护、机器速度防御、签名校验部署与 TPM 硬件验证四项能力。</h3>
-<p><a href="https://openai.com/index/introducing-shirudo">来源</a></p></div>
+<h3>谷歌搜索上线 Personal Intelligence：可调用用户已连接的 Gmail、Drive、Photos 与日历做个性化搜索，搜索开始吃个人上下文。</h3>
+<p><a href="https://www.aibriefing.dev/">来源</a></p></div>
 <div class="card"><span class="tag">10</span>
-<h3>豆包工作上线 21 个专业工作台，量子位实测给 80 分：豆包工作新上线&quot;工作台&quot;功能，一次铺开金融投研、创意设计、医疗、教育等 21 个专业场景，每个预置对应技能与工具；量子位实测四个场景：金融工作台 11 分半交出英伟达财报解读、四项关键数字核对无误，设计工作台 4 分钟生成 5 张电商主图，医生工作台给出药物相互作用的循证方向并明确不替代医师判断，教师工作台 6 分半交出完整教案。</h3>
-<p><a href="https://www.qbitai.com/2026/11/511933.html">来源</a></p></div>
+<h3>国产开源模型 11 月 23 日集中上新：腾讯混元 Standard 与 256k 版、蚂蚁 Ling-3.2-air、百度 ERNIE 5.5 Flash Preview 相继上线，第三方跑分尚待出炉。</h3>
+<p><a href="https://www.benchleader.com/zh/releases">来源</a></p></div>
 <div class="card"><span class="tag">11</span>
-<h3>养老陪伴机器人 Abi 拿下 3000 万美元 B 轮首笔融资，月产能将从 8 台扩至 100 台：墨尔本 Andromeda Robotics 已完成目标 7500 万美元 B 轮中的 3000 万美元，由 Forerunner Ventures 与 Innovation Victoria 领投；其 120 厘米高的陪伴机器人 Abi 面向养老院，会说 90 多种语言、能记住每位老人的对话，已在澳大利亚养老院试用并进入美国加州一家记忆护理机构，融资将用于扩产与进军北美。</h3>
-<p><a href="https://theroboticsmedia.com/article/andromeda-robotics-30-million-series-b-abi-companion-robot">来源</a></p></div>
+<h3>苹果 18+ 新规已于 11 月 16 日执行：含浪漫或性内容的 AI 陪伴应用须在 App Store 申报并自动定为 18+，Character.AI、Replika 在列，现有应用须在 2027 年 1 月 12 日前完成申报。</h3>
+<p><a href="https://www.startuphub.ai/ai-news/artificial-intelligence/2026/apple-18-plus-rule-ai-companion-apps">来源</a></p></div>
 <div class="card"><span class="tag">12</span>
-<h3>Character.AI 出售案今日竞标截止，42 个州反对聊天记录打包出售：Character.AI 破产出售案今日（11 月 24 日）中午 12 点（美东时间）截止接收竞标，迪士尼 2000 万美元竞购技术授权、Smirks and Pangs 公司 1000 万美元竞购应用本体（含用户聊天记录）为两家底价竞标方；包括得州在内的 42 个州及华盛顿特区已向法院提出异议，要求聊天记录不得随应用打包出售，拍卖定于 12 月 1 日、出售听证会 12 月 3–4 日。</h3>
-<p><a href="https://www.nodera.ai/guides/character-ai-bankruptcy">来源</a></p></div><h2 class="sec">往期</h2><div class="card"><p><a href="2026-11-24.html">11-24</a> · <a href="2026-11-23.html">11-23</a> · <a href="2026-11-22.html">11-22</a> · <a href="2026-11-21.html">11-21</a> · <a href="2026-11-20.html">11-20</a> · <a href="2026-11-19.html">11-19</a> · <a href="2026-11-18.html">11-18</a> · <a href="2026-11-17.html">11-17</a> · <a href="2026-11-16.html">11-16</a> · <a href="2026-11-15.html">11-15</a> · <a href="2026-11-14.html">11-14</a> · <a href="2026-11-13.html">11-13</a> · <a href="2026-11-12.html">11-12</a> · <a href="2026-11-11.html">11-11</a> · <a href="2026-11-10.html">11-10</a> · <a href="2026-11-09.html">11-09</a> · <a href="2026-11-08.html">11-08</a> · <a href="2026-11-07.html">11-07</a> · <a href="2026-11-06.html">11-06</a> · <a href="2026-11-05.html">11-05</a> · <a href="2026-11-04.html">11-04</a> · <a href="2026-11-03.html">11-03</a> · <a href="2026-11-02.html">11-02</a> · <a href="2026-11-01.html">11-01</a> · <a href="2026-11-01.html">11-01</a> · <a href="2026-10-31.html">10-31</a> · <a href="2026-10-30.html">10-30</a> · <a href="2026-10-29.html">10-29</a> · <a href="2026-10-28.html">10-28</a> · <a href="2026-10-27.html">10-27</a> · <a href="2026-10-26.html">10-26</a> · <a href="2026-10-25.html">10-25</a> · <a href="2026-10-24.html">10-24</a> · <a href="2026-10-23.html">10-23</a> · <a href="2026-10-22.html">10-22</a> · <a href="2026-10-21.html">10-21</a> · <a href="2026-10-20.html">10-20</a> · <a href="2026-10-19.html">10-19</a> · <a href="2026-10-18.html">10-18</a> · <a href="2026-10-17.html">10-17</a> · <a href="2026-10-16.html">10-16</a> · <a href="2026-10-15.html">10-15</a> · <a href="2026-10-11.html">10-11</a> · <a href="2026-10-10.html">10-10</a> · <a href="2026-10-08.html">10-08</a></p></div>
-
-</div></div>
-  <div class="foot">香芋的读书笔记 · 以书会友，以文会友</div>
-</div></main>
-
-<script>
-document.getElementById('immBtn').onclick=function(){ document.body.classList.toggle('immersive'); };
-function toggleTheme(){ var d=document.documentElement; var dark=d.getAttribute('data-theme')==='dark'; d.setAttribute('data-theme', dark?'light':'dark'); try{ localStorage.setItem('libtheme', dark?'light':'dark'); }catch(e){} }
-document.getElementById('themeBtn').onclick=toggleTheme;
-var tb2=document.getElementById('themeBtn2'); if(tb2) tb2.onclick=toggleTheme;
-try{ if(localStorage.getItem('libtheme')==='dark') document.documentElement.setAttribute('data-theme','dark'); }catch(e){}
-var q=document.getElementById('q');
-if(q){ q.oninput=function(){ var v=q.value.trim().toLowerCase(); document.querySelectorAll('.content .card, .content .video-card').forEach(function(c){ c.style.display=(!v||c.textContent.toLowerCase().indexOf(v)>=0)?'':'none'; }); }; }
-</script>
-</body></html>
+<h3>Anthropic 上市后股价跌破发行价：11 月 19 日以 83 美元定价、首日收涨 17% 后，11 月 24 日股价回落至发行价下方；公司 IPO 募资约 813 亿美元，为有记录以来最大规模 IPO。</h3>
+<p><a href="https://jamesm.blog/ai/ai-roundup-november-2026/">来源</a></p></div><h2 class="sec">往期</h2><div class="card"><p><a href="2026-11-25.html">11-25</a> · <a href="2026-11-24.html">11-24</a> · <a href="2026-11-23.html">11-23</a> · <a href="2026-11-22.html">11-22</a> · <a href="2026-11-21.html">11-21</a> · <a href="2026-11-20.html">11-20</a> · <a href="2026-11-19.html">11-19</a> · <a href="2026-11-18.html">11-18</a> · <a href="2026-11-17.html">11-17</a> · <a href="2026-11-16.html">11-16</a> · <a href="2026-11-15.html">11-15</a> · <a href="2026-11-14.html">11-14</a> · <a href="2026-11-13.html">11-13</a> · <a href="2026-11-12.html">11-12</a> · <a href="2026-11-11.html">11-11</a> · <a href="2026-11-10.html">11-10</a> · <a href="2026-11-09.html">11-09</a> · <a href="2026-11-08.html">11-08</a> · <a href="2026-11-07.html">11-07</a> · <a href="2026-11-06.html">11-06</a> · <a href="2026-11-05.html">11-05</a> · <a href="2026-11-04.html">11-04</a> · <a href="2026-11-03.html">11-03</a> · <a href="2026-11-02.html">11-02</a> · <a href="2026-11-01.html">11-01</a> · <a href="2026-11-01.html">11-01</a> · <a href="2026-10-31.html">10-31</a> · <a href="2026-10-30.html">10-30</a> · <a href="2026-10-29.html">10-29</a> · <a href="2026-10-28.html">10-28</a> · <a href="2026-10-27.html">10-27</a> · <a href="2026-10-26.html">10-26</a> · <a href="2026-10-25.html">10-25</a> · <a href="2026-10-24.html">10-24</a> · <a href="2026-10-23.html">10-23</a> · <a href="2026-10-22.html">10-22</a> · <a href="2026-10-21.html">10-21</a> · <a href="2026-10-20.html">10-20</a> · <a href="2026-10-19.html">10-19</a> · <a href="2026-10-18.html">10-18</a> · <a href="2026-10-17.html">10-17</a> · <a href="2026-10-16.html">10-16</a> · <a href="2026-10-15.html">10-15</a> · <a href="2026-10-11.html">10-11</a> · <a href="2026-10-10.html">10-10</a> · <a href="2026-10-08.html">10-08</a></p></div>
+<footer class="site">香芋的读书笔记 · 读完的书，在这里安家</footer>
+</div></body></html>
